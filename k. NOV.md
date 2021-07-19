@@ -1,6 +1,8 @@
-| Name of Scholarship/Opportunity             | Deadline Date | Type (Scholarship, Workshop, Internship, Fellowship, etc) | Link                                                                                                                                                           |
-| ------------------------------------------- | ------------- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pratibha - Scholarships for Women Engineers | Nov           | Scholarship                                               | [http://www.eaton.in/EatonIN/EatonExcellenceAwards/index.htm](http://www.eaton.in/EatonIN/EatonExcellenceAwards/index.htm)                                     |
-| Toptal STEM Scholarship                     | 30 Nov        | Mentorship and Scholarship                                | [https://www.toptal.com/scholarships-for-women#prize](https://www.toptal.com/scholarships-for-women#prize)                                                     |
-| Code UR Way - Visa                          | 10 Nov        | Coding Competition                                        | [https://assessment.hackerearth.com/challenges/hiring/visa-code-your-way-2019/](https://assessment.hackerearth.com/challenges/hiring/visa-code-your-way-2019/) |
-| WINTATHON by LinkedIn                       | 6 Nov         | Hackathon                                                 | [https://wintathon2020.splashthat.com/](https://wintathon2020.splashthat.com/)                                                                                 |
+# November
+
+Opportunity|Deadline|Type
+----|-----|-----
+[Pratibha - Scholarships for Women Engineers](http://www.eaton.in/EatonIN/EatonExcellenceAwards/index.htm) | Nov | Scholarship
+[Toptal STEM Scholarship](https://www.toptal.com/scholarships-for-women#prize) | 30 Nov | Mentorship and Scholarship
+[Code UR Way - Visa](https://assessment.hackerearth.com/challenges/hiring/visa-code-your-way-2019/) | 10 Nov | Coding Competition
+[WINTATHON by LinkedIn](https://wintathon2020.splashthat.com/) | 6 Nov | Hackathon

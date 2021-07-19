@@ -8,3 +8,4 @@
 | Season of KDE                                     | Jan 4         | Summer of Code/ Mentorship                                | https://season.kde.org/                                                                                |
 | Intuit Augment Program                            | 21 Jan        | Mentorship                                                | https://www.surveymonkey.com/r/INTUIT_2020                                                             |
 | Goldman Sachs Women Possibilities Summit: Finance | 15 Jan        | Scholarship to attend conference                          | https://www.goldmansachs.com/careers/students/programs/india/womens-possibilities-summit-finance.html  |
+MLH Fellowship | 4 Jan (Tentative) | Stipend, Certificate, Mentorship, Swags | https://fellowship.mlh.io/programs/open-source

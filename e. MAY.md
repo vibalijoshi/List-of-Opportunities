@@ -2,9 +2,9 @@
 
 Opportunity|Deadline|Type
 ----|-----|-----
-[Nutanix](https://www.nutanix.com/scholarships) | May 26, 2021 | Scholarship for Women in Tech
-[Girl Up Scholarship](https://clubs.girlup.org/blogs/169/3653) | May 17, 2021 | Scholarship for Girl Up participants
-[FOSSE IIT Bombay](https://fossee.in/fellowship/2021) | 05 May 2021 | Fellowship
+[Nutanix](https://www.nutanix.com/scholarships) | May 26 | Scholarship for Women in Tech
+[Girl Up Scholarship](https://clubs.girlup.org/blogs/169/3653) | May 17| Scholarship for Girl Up Members
+[FOSSE IIT Bombay](https://fossee.in/fellowship/2021) | 05 May| Fellowship
 [GDSC Application India](https://developers.google.com/community/dsc/leads) | May 1 | GDSC Lead Application
 [Women in Product Conference](https://www.womenpm.org/conference-scholarships) | May 5 | Scholarship to attend the conference
 [Womentech Conference](https://www.womentech.net/apply-for-scholarship) | May | scholarship to attend the conference

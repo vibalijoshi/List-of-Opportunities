@@ -1,10 +1,8 @@
-| Name of Scholarship/Opportunity                     | Deadline Date | Type (Scholarship, Workshop, Internship, Fellowship, etc) | Link                                                                                                                                                                                                                                   |
-| --------------------------------------------------- | ------------- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Juniper Networks Scholarship and Internship<br><br> |               |                                                           | [https://www.iie.org/Programs/WeTech/STEM-Scholarships-for-Women/Juniper-Networks-Scholarship-and-Internship/India](https://www.iie.org/Programs/WeTech/STEM-Scholarships-for-Women/Juniper-Networks-Scholarship-and-Internship/India) |
-| Microsoft Diversity                                 | not sure      | Scholarship                                               | [https://careers.microsoft.com/students/us/en/usscholarshipprogram](https://careers.microsoft.com/students/us/en/usscholarshipprogram)                                                                                                 |
-| Mozilla Fellowship                                  | not sure      | Fellowship                                                | [https://blog.mozilla.org/blog/2019/03/12/apply-for-a-mozilla-fellowship/](https://blog.mozilla.org/blog/2019/03/12/apply-for-a-mozilla-fellowship/)                                                                                   |
-| Hack@Home by Atlassian                              |               | Internship                                                | [https://www.linkedin.com/pulse/all-atlassian-hackhome-coding-challenge-lakshmi-k-p/](https://www.linkedin.com/pulse/all-atlassian-hackhome-coding-challenge-lakshmi-k-p/)                                                        |
-| Github Campus Expert Program ( Happens twice a year feb and august) |     Not Sure     |   Campus Expert Program                | https://apply.githubcampus.expert/
-| DrivenData |     Whole Year    |   Cash Prizes             | https://www.drivendata.org/competitions/
-
+Opportunity|Deadline|Type
+----|-----|-----
+[Juniper Networks Scholarship and Internship](https://www.iie.org/Programs/WeTech/STEM-Scholarships-for-Women/Juniper-Networks-Scholarship-and-Internship/India) |  | 
+[Microsoft Diversity](https://careers.microsoft.com/students/us/en/usscholarshipprogram) | not sure | Scholarship
+[Mozilla Fellowship](https://blog.mozilla.org/blog/2019/03/12/apply-for-a-mozilla-fellowship/) | not sure | Fellowship
+[Hack@Home by Atlassian](https://www.linkedin.com/pulse/all-atlassian-hackhome-coding-challenge-lakshmi-k-p/) |  | Internship
+[Github Campus Expert Program ( Happens twice a year feb and august)](https://apply.githubcampus.expert/) | Not Sure | Campus Expert Program
 

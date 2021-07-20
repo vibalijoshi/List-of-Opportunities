@@ -1,10 +1,12 @@
-| Opportunity                                     | Deadline Date | Type                                                        | Link                                                                                                   |
-|---------------------------------------------------|---------------|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| Cisco thingQbator                                 |               | Mentorship                                                | https://tqb.li2.in/                                                                                    |
-| HPAIR Harvard Conference                          |               | Scholarship to attend conference                          | https://hpair.org/harvard-conference-2021                                                              |
-| Flipkart Girls Wanna Code                         |               | Mentorship                                                | https://www.google.com/amp/s/dare2compete.com/o/flipkart-girls-wanna-code-30-flipkart-145093/amp       |
-| Goldman Sachs WeTech                              | Jan 18        | Mentorship                                                | https://www.iie.org/Programs/WeTech/STEM-Scholarships-for-Women/Goldman-Sachs-Scholarship              |
-| Qualcomm Global Scholars Program                  | Jan 2         | Scholarship                                               | https://www.iie.org/Programs/WeTech/STEM-Scholarships-for-Women/Qualcomm-Global-Scholars-Program/India |
-| Season of KDE                                     | Jan 4         | Summer of Code/ Mentorship                                | https://season.kde.org/                                                                                |
-| Intuit Augment Program                            | 21 Jan        | Mentorship                                                | https://www.surveymonkey.com/r/INTUIT_2020                                                             |
-| Goldman Sachs Women Possibilities Summit: Finance | 15 Jan        | Scholarship to attend conference                          | https://www.goldmansachs.com/careers/students/programs/india/womens-possibilities-summit-finance.html  |
+# January
+
+Opportunity|Deadline|Type
+----|-----|-----
+[Cisco thingQbator](https://tqb.li2.in/) |  | Mentorship
+[HPAIR Harvard Conference](https://hpair.org/harvard-conference-2021) |  | Scholarship to attend conference
+[Flipkart Girls Wanna Code](https://www.google.com/amp/s/dare2compete.com/o/flipkart-girls-wanna-code-30-flipkart-145093/amp) |  | Mentorship
+[Goldman Sachs WeTech](https://www.iie.org/Programs/WeTech/STEM-Scholarships-for-Women/Goldman-Sachs-Scholarship) | Jan 18 | Mentorship
+[Qualcomm Global Scholars Program](https://www.iie.org/Programs/WeTech/STEM-Scholarships-for-Women/Qualcomm-Global-Scholars-Program/India) | Jan 2 | Scholarship
+[Season of KDE](https://season.kde.org/) | Jan 4 | Summer of Code/ Mentorship
+[Intuit Augment Program](https://www.surveymonkey.com/r/INTUIT_2020) | 21 Jan | Mentorship
+[Goldman Sachs Women Possibilities Summit: Finance](https://www.goldmansachs.com/careers/students/programs/india/womens-possibilities-summit-finance.html) | 15 Jan | Scholarship to attend conference

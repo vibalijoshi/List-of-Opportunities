@@ -10,7 +10,6 @@ Opportunity|Deadline|Type
 [Womentech Conference](https://www.womentech.net/apply-for-scholarship) | May | scholarship to attend the conference
 [Kode with Klossy](https://www.kodewithklossy.com/) | May | Scholarship for bootcamps
 [IBM Quantum Challenge 2021](https://challenges.quantum-computing.ibm.com/iqc21) | 20 May | Coding Challenge
-[Microsoft Engage](https://careers.microsoft.com/us/en/job/1049887/Engage-Mentorship) | May | Mentorship
 [Call for Code](https://developer.ibm.com/callforcode/) | May | Ideathon by Linux Foundation and IBM
 [Osoc](https://osoc.be/students) | 23 May | Mentorship
 [McKinsey Achievement Awards](https://www.mckinsey.com/careers/mckinsey-achievement-awards/overview?fbclid=IwAR3yrq_x9eLBJNokIbslAXfhre5Jzpj4rcbfoUOFJoz_Nh9FHsfQH13Ub4U) | 21 May | Mentorship and Scholarship

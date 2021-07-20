@@ -1,7 +1,7 @@
 # February
 Opportunity|Deadline|Type
 ----|-----|-----
-[Outreachy](https://www.outreachy.org/) | 22 Feb | internship
+[Outreachy Summer Cycle](https://www.outreachy.org/) | 22 Feb | internship
 [Student of Vision Abie Award 2021](https://anitab.org/awards-grants/abie-awards/student-of-vision/) | 25 Feb | Scholarship
 [LFX](https://lfx.linuxfoundation.org/tools/mentorship/) | 12 Feb | Mentorship
 [Society of Women Engineers Scholarship Application System](https://scholarships.swe.org/applications/login.asp) | 15 Feb | Scholarship

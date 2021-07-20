@@ -5,4 +5,4 @@ Opportunity|Deadline|Type
 [Mozilla Fellowship](https://blog.mozilla.org/blog/2019/03/12/apply-for-a-mozilla-fellowship/) | not sure | Fellowship
 [Hack@Home by Atlassian](https://www.linkedin.com/pulse/all-atlassian-hackhome-coding-challenge-lakshmi-k-p/) |  | Internship
 [Github Campus Expert Program](https://apply.githubcampus.expert/) | End of Aug | Campus Expert Program
-
+[KubeCon CloudNative North America 2021](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/scholarships/) | 8 Aug | Scholarship to attend conf

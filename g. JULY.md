@@ -8,3 +8,4 @@ Opportunity|Deadline|Type
 [Google for Games Developer Summit 2021](https://developersonair.withgoogle.com/events/game-dev-summit-2021) | July 12 | Summit
 [Software Engineering Internship Cisco](https://dare2compete.com/internship/software-engineering-internship-cisco-183203?lb=G0Ozofw) | July 22 | Internship
 [HackRx by Bajaj Finserv](https://hackrx.in/) | 15 July | Annual Hackathon with PIP/PPO at Bajaj
+[30 Days of Google Cloud](https://inthecloud.withgoogle.com/google-cloud-skills/register.html?utm_source=google&utm_medium=blog&utm_campaign=FY21-Q1-global-trainingandenablement-website-other-skills_challenge&utm_content=q1rollup) | 31st July | Skills challenge

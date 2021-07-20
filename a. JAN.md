@@ -2,7 +2,6 @@
 
 Opportunity|Deadline|Type
 ----|-----|-----
-[Cisco thingQbator](https://thingqbator.nasscomfoundation.org/login) |  | Mentorship
 [HPAIR Harvard Conference](https://hpair.org/harvard-conference-2021) |  | Scholarship to attend conference
 [Flipkart Girls Wanna Code](https://www.google.com/amp/s/dare2compete.com/o/flipkart-girls-wanna-code-30-flipkart-145093/amp) |  | Mentorship
 [Goldman Sachs WeTech](https://www.iie.org/Programs/WeTech/STEM-Scholarships-for-Women/Goldman-Sachs-Scholarship) | Jan 18 | Mentorship

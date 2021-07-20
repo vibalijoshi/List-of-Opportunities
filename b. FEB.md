@@ -1,5 +1,4 @@
 # February
-
 Opportunity|Deadline|Type
 ----|-----|-----
 [Outreachy](https://www.outreachy.org/) | 22 Feb | internship

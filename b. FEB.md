@@ -6,3 +6,4 @@ Opportunity|Deadline|Type
 [LFX](https://lfx.linuxfoundation.org/tools/mentorship/) | 12 Feb | Mentorship
 [Society of Women Engineers Scholarship Application System](https://scholarships.swe.org/applications/login.asp) | 15 Feb | Scholarship
 [Harvard US-India Initiative Conference](https://www.huii.in/apply-now) | 3 Feb | Scholarship to attend the Conf
+[GirlScript Summer Of Code](https://gssoc.girlscript.tech/index.html) | 19 Feb | Mentorship

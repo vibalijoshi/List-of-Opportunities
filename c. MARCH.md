@@ -2,6 +2,7 @@
 
 Opportunity|Deadline|Type
 ----|-----|-----
+[Cisco thingQbator](https://thingqbator.nasscomfoundation.org/login) | 15th March | Mentorship
 [Google Generation Scholarship APAC](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/) | 30th March | Scholarship
 [LinkedIn CoachlN](https://coachin2021.splashthat.com/) | March | Mentorship
 [J.P. Morgan Quant Mentorship Program](https://jpmc.recsolu.com/external/events/7fhj8JsCg3MnReoSQFtVVg) | before 15th | Mentorship

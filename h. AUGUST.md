@@ -8,4 +8,6 @@ Opportunity|Deadline|Type
 [KubeCon CloudNative North America 2021 (In person)](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/scholarships/) | 8 Aug | Scholarship to attend conf
 [Outreachy Winter Internship](https://www.outreachy.org/apply/eligibility/) | Aug 30 2021| Internship
 [Postman Student Summit 2021](https://www.eventbrite.com/e/postman-student-summit-2021-tickets-161638299505) | Aug 8 | Conference
+[ThinkSwiss Research Scholarships: Asia-Pacific](https://swissnex.org/india/thinkswiss/) | Aug  | Research Scholarship
+[Mitacs Globalink Research Internship 2022](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) | Aug  | Research Internship
 

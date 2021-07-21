@@ -7,3 +7,5 @@ Opportunity|Deadline|Type
 [Github Campus Expert Program](https://apply.githubcampus.expert/) | End of Aug | Campus Expert Program
 [KubeCon CloudNative North America 2021 (In person)](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/scholarships/) | 8 Aug | Scholarship to attend conf
 [Outreachy Winter Internship](https://www.outreachy.org/apply/eligibility/) | Aug 30 2021| Internship
+[Postman Student Summit 2021](https://www.eventbrite.com/e/postman-student-summit-2021-tickets-161638299505) | Aug 8 | Conference
+

@@ -14,4 +14,5 @@ Opportunity|Deadline|Type
 [Palantir Global Impact Scholarship](https://www.palantir.com/students/scholarship/global-impact/) | April 1 | Scholarship
 [ERPNext Summer of Code](https://erpnext.org/esoc) | 14 April | Internship
 [Google Summer of Code (GSOC)](https://summerofcode.withgoogle.com/how-it-works/#timeline)| 13 April | Internship, Stipend
+[The Processing Foundation](https://medium.com/processing-foundation/open-call-for-2021-fellowships-44c777cc335)| April 9 2021 | Fellowship
 

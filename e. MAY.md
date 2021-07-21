@@ -13,7 +13,7 @@ Opportunity|Deadline|Type
 [Call for Code](https://developer.ibm.com/callforcode/) | May | Ideathon by Linux Foundation and IBM
 [Osoc](https://osoc.be/students) | 23 May | Mentorship
 [McKinsey Achievement Awards](https://www.mckinsey.com/careers/mckinsey-achievement-awards/overview?fbclid=IwAR3yrq_x9eLBJNokIbslAXfhre5Jzpj4rcbfoUOFJoz_Nh9FHsfQH13Ub4U) | 21 May | Mentorship and Scholarship
-[Cadence Women in Technology Scholarship Program](https://www.cadence.com/en_US/home/company/cadence-academic-network/women-in-tech-scholarship.html?fbclid=IwAR0w_TIQzoTsmvjS27MaenVfjp03kBXlQmrutey054T7Zgc8CtYZcOVW8pk) | not sure | Scholarship
+[Exchange with Google Developers](https://events.withgoogle.com/exchange-with-google-developers/) | May 17| Scholarship
 [Microsoft Build](https://mybuild.microsoft.com/home) | May 26 | Conference
 [FOSSASIA Internship Program](https://docs.google.com/forms/d/e/1FAIpQLScp8h5SIPVK5G2SAm5vtrv7KLKeOeYTxlZBkDRE6I7Toybt0A/viewform) |  | Internship
 [Free Software Foundation (FSF) Internship program](https://www.fsf.org/volunteer/internships) | May 10 | Internship

@@ -10,6 +10,6 @@ Opportunity|Deadline|Type
 [Postman Student Summit 2021](https://www.eventbrite.com/e/postman-student-summit-2021-tickets-161638299505) | Aug 8 | Conference
 [ThinkSwiss Research Scholarships: Asia-Pacific](https://swissnex.org/india/thinkswiss/) | Aug  | Research Scholarship
 [Mitacs Globalink Research Internship 2022](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) | Aug  | Research Internship
-[Open Networking and Edge Summit Nort America](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/attend/scholarships/) | 26 Aug 21 | Registration Scholarship
-[Open Networking and Edge Summit Nort America](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/attend/scholarships/) | 5 Aug  | Travel Funding Scholarship
+[Open Networking and Edge Summit North America](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/attend/scholarships/) | 26 Aug 21 | Registration Scholarship
+[Open Networking and Edge Summit North America](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/attend/scholarships/) | 5 Aug  | Travel Funding Scholarship
 

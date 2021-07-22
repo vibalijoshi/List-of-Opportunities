@@ -12,4 +12,5 @@ Opportunity|Deadline|Type
 [Mitacs Globalink Research Internship 2022](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) | Aug  | Research Internship
 [Open Networking and Edge Summit North America](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/attend/scholarships/) | 26 Aug 21 | Registration Scholarship
 [Open Networking and Edge Summit North America](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/attend/scholarships/) | 5 Aug  | Travel Funding Scholarship
+[Facebook Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup) | 27 Aug  | Coding Competition
 

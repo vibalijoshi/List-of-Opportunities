@@ -5,7 +5,6 @@
 | Mozilla Fellowship                                  | not sure      | Fellowship                                                | [https://blog.mozilla.org/blog/2019/03/12/apply-for-a-mozilla-fellowship/](https://blog.mozilla.org/blog/2019/03/12/apply-for-a-mozilla-fellowship/)                                                                                   |
 | Hack@Home by Atlassian                              |               | Internship                                                | [https://www.linkedin.com/pulse/all-atlassian-hackhome-coding-challenge-lakshmi-k-p/](https://www.linkedin.com/pulse/all-atlassian-hackhome-coding-challenge-lakshmi-k-p/)                                                             |
 |                                                     |               |                                                           |                                                     
-| GithHub Campus Experts                              |  August End         | Community Leadership                                                | [https://www.linkedin.com/pulse/all-atlassian-hackhome-coding-challenge-lakshmi-k-p/](https://education.github.com/experts)                                                             |
-|  
+| GithHub Campus Experts                              |  August End         | Community Leadership                                                | [https://education.github.com/experts](https://education.github.com/experts)                                                             |
 
-|
+

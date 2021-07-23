@@ -11,3 +11,4 @@ Opportunity|Deadline|Type
 [30 Days of Google Cloud](https://inthecloud.withgoogle.com/google-cloud-skills/register.html?utm_source=google&utm_medium=blog&utm_campaign=FY21-Q1-global-trainingandenablement-website-other-skills_challenge&utm_content=q1rollup) | 31st July | Skills challenge
 [Google Quantum Summer Symposium 2021](https://events.withgoogle.com/2021-quantum-summer-symposium/) | 21st July | Conference
 [Free Software Foundation](https://www.fsf.org/volunteer/internships)| 21 July 2021 | Internship
+[Walmark SparkTech Showcase](https://ys-events.yourstory.com/walmart-sparktechshowcase)| 30 July 2021 | Hackathon (PIO and PPO offers)

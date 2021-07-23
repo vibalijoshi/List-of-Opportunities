@@ -15,3 +15,4 @@ Opportunity|Deadline|Type
 [Facebook Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup) | 27 Aug  | Coding Competition
 [ONGC Meritorious Scholarships](https://ongcscholar.org/) | 6 Aug 2021 | Scholarship (1st year)
 [Goldman Sachs Engineering Campus Hiring Program [Off-campus]](https://www.goldmansachs.com/careers/students/programs/india/engineers-campus-hiring-program.html) | 15 Aug 2021 | FTE and Internship
+[DESIS Ascend Educare Educare for Women in Tech](https://www.deshaw.com/forms/OERCQTZFNjEtQUIyQi00ODkwLTlBODktMkU2MDQ1NzQwRUE4) | 30 Aug 2021 | Mentorship By DE Shaw

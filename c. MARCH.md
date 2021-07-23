@@ -10,7 +10,7 @@ Opportunity|Deadline|Type
 [Western Digital Scholarships for STEM](https://www.westerndigital.com/company/corporate-philanthropy/scholarship-programs) | 24 March | Scholarship
 [Micron Global Women's Mentorship Program](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.dieti.unina.it/images/opportunita/Micron_Global_Women_s_Mentorship_Program_2021.pdf&ved=2ahUKEwja_-yp1LHwAhXxgtgFHaSSAZ0QFjAAegQIBRAC&usg=AOvVaw3eGcIEC7VUWC-D23LuQpeo) | 12 March | Mentorship
 [Virtual Insights Series: An Exploratory Program](https://www.goldmansachs.com/careers/students/programs/americas/undergrad-virtual-insight-series.html) | 21 March | Exploratory Program by Goldman Sachs
-[AWS Community Builder Program](https://aws.amazon.com/developer/community/community-builders/) | 30 March | Mentorship
+[AWS Community Builder Program](https://aws.amazon.com/developer/community/community-builders/) | 30 March | Ambassador Program
 [American Express Makethon](https://american-express-makeathon-2021.hackerearth.com/) | 12 March | Intenship for 2nd years
 [Reply Code Challenge](https://www.reply.com/en/newsroom/events/reply-code-challenge-2021) | 11 March | Coding Challenge
 [Code in Place by Stanford](https://codeinplace.stanford.edu/) | March | Mentorship/ Classroom

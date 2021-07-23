@@ -9,3 +9,4 @@ Opportunity|Deadline|Type
 [Walmart CodeHers](https://dare2compete.com/o/walmart-codehers-walmart-india-pvt-ltd-167089) | 11 June | Full Time SDE roles
 [Open Source Day by Anita B. org](https://anitab.org/events-programs/open-source-day/) | 30 Jun | Mentorship
 [AWS She Builds Mentoring Program](https://awsshebuildsmentoringprogram.splashthat.com/) | 30 Jun | Mentorship
+[Avery Dennison Foundation Scholarship](https://www.applytoaverydennisoninvent.org/) | 6 Jun | Scholarship

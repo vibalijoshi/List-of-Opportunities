@@ -13,4 +13,5 @@ Opportunity|Deadline|Type
 [Open Networking and Edge Summit North America](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/attend/scholarships/) | 26 Aug 21 | Registration Scholarship
 [Open Networking and Edge Summit North America](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/attend/scholarships/) | 5 Aug  | Travel Funding Scholarship
 [Facebook Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup) | 27 Aug  | Coding Competition
+[ONGC Meritorious Scholarships](https://ongcscholar.org/) | 6 Aug 2021 | Scholarship (1st year)
 

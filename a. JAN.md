@@ -11,3 +11,4 @@ Opportunity|Deadline|Type
 [Goldman Sachs Women Possibilities Summit: Finance](https://www.goldmansachs.com/careers/students/programs/india/womens-possibilities-summit-finance.html) | 15 Jan | Scholarship to attend conference
 [MLH Fellowship](https://fellowship.mlh.io/programs/open-source) | 4 Jan | Mentorship
 [Internshala Career Scholarship for Girls](https://blog.internshala.com/2020/12/internshala-career-scholarship-for-girls-2021/) | 15 Jan | Scholarship
+[Pragati Scholarship 2021 – AICTE](https://www.buddy4study.com/article/pragati-scholarship) | 31 Jan | Scholarship for girls

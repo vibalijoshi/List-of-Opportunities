@@ -15,4 +15,4 @@ Opportunity|Deadline|Type
 [ERPNext Summer of Code](https://erpnext.org/esoc) | 14 April | Internship
 [Google Summer of Code (GSOC)](https://summerofcode.withgoogle.com/how-it-works/#timeline)| 13 April | Internship, Stipend
 [The Processing Foundation](https://medium.com/processing-foundation/open-call-for-2021-fellowships-44c777cc335)| April 9 2021 | Fellowship
-
+[1000 Dreams Fund](https://1000dreamsfund.org/apply/) | 2 April | Scholarship (US only)

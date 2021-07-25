@@ -12,3 +12,4 @@ Opportunity|Deadline|Type
 [Google Quantum Summer Symposium 2021](https://events.withgoogle.com/2021-quantum-summer-symposium/) | 21st July | Conference
 [Free Software Foundation](https://www.fsf.org/volunteer/internships)| 21 July 2021 | Internship
 [Walmark SparkTech Showcase](https://ys-events.yourstory.com/walmart-sparktechshowcase)| 30 July 2021 | Hackathon (PIO and PPO offers)
+[Grace Hopper Scholarship (GWC X Walmart) 2021](https://survey.alchemer.com/s3/6380889/Grace-Hopper-Scholarship-GWC-X-Walmart-2021) | 25 July | Hackathon + Scholarship

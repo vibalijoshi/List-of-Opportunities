@@ -14,3 +14,4 @@ Opportunity|Deadline|Type
 [Walmark SparkTech Showcase](https://ys-events.yourstory.com/walmart-sparktechshowcase)| 30 July 2021 | Hackathon (PIO and PPO offers)
 [Grace Hopper Scholarship (GWC X Walmart) 2021](https://survey.alchemer.com/s3/6380889/Grace-Hopper-Scholarship-GWC-X-Walmart-2021) | 25 July | Hackathon + Scholarship
 [Amazon ML Challenge](https://amazonmlchallenge.splashthat.com/) | 29 July | ML Hackathon + PIP/PPO offer
+[Flipkart GRiD 3.0](https://dare2compete.com/hackathon/flipkart-grid-30-software-development-challenge-flipkart-grid-30-flipkart-173986?lb=nciUx5O)|10 July| Hackathon (PIO and PPO offers)

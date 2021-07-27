@@ -17,3 +17,4 @@ Opportunity|Deadline|Type
 [Goldman Sachs Engineering Campus Hiring Program [Off-campus]](https://www.goldmansachs.com/careers/students/programs/india/engineers-campus-hiring-program.html) | 15 Aug 2021 | FTE and Internship
 [DESIS Ascend Educare for Women in Tech](https://www.deshaw.com/forms/OERCQTZFNjEtQUIyQi00ODkwLTlBODktMkU2MDQ1NzQwRUE4) | 30 Aug 2021 | Mentorship By DE Shaw
 [Above and Beyond Computer Science](https://www.surveymonkey.com/r/ABCS2021?sf247725529=1) | 6 Aug |  10-week workshop series with Facebook SWE [Read](https://noooorfatima.medium.com/my-facebook-abcs-program-experience-1d6a9f8e47bc)
+[DAAD Scholarship](https://dare2compete.com/scholarship/daad-scholarship-university-of-bonn-germany-188554?lb=nciUx5O) | 31 Aug 2021 | Scholarship

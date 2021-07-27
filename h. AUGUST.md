@@ -19,5 +19,5 @@ Opportunity|Deadline|Type
 [Above and Beyond Computer Science](https://www.surveymonkey.com/r/ABCS2021?sf247725529=1) | 6 Aug |  10-week workshop series with Facebook SWE [Read](https://noooorfatima.medium.com/my-facebook-abcs-program-experience-1d6a9f8e47bc)
 [DAAD Scholarship](https://dare2compete.com/scholarship/daad-scholarship-university-of-bonn-germany-188554?lb=nciUx5O) | 31 Aug 2021 | Scholarship
 [WBAI Hackathon 2021](https://dare2compete.com/o/wbai-hackathon-2021-whole-brain-architecture-initiative-wbai-164493?lb=21070516) | 31 Aug 2021 | Hackathon
-[Google Kickstart Round E](https://codingcompetitions.withgoogle.com/kickstart/about) | 22nd Aug 2021 | Coding Competition
-[Hiring Contest for Software Engineer (GeeksforGeeks)](https://practice.geeksforgeeks.org/contest/gfg-hiring-software-engineer) | 7th Aug 2021 | Coding Competition
+[Google Kickstart Round E](https://codingcompetitions.withgoogle.com/kickstart/about) | 22 Aug 2021 | Coding Competition
+[Hiring Contest for Software Engineer (GeeksforGeeks)](https://practice.geeksforgeeks.org/contest/gfg-hiring-software-engineer) | 7 Aug 2021 | Coding Competition

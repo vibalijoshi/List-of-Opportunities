@@ -7,4 +7,3 @@ Opportunity|Deadline|Type
 [Adobe Research Women in Technology Scholarship](https://research.adobe.com/scholarship/) | December 9 | Scholarship
 [Script Winter of Code SWOC](https://swoc.tech/index.html)| December 20 | Mentorship
 [Max Planck Institutes in Computer Science](https://www.cis.mpg.de/internships/) | 31 Dec | Internship
-

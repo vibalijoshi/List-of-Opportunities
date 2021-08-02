@@ -42,5 +42,5 @@ allOpps = []
 for i, file in enumerate(FILES):
     allOpps.extend(readMd(PATH+file))
 
-with open("public/opportunities.json", "w") as outfile: 
+with open("data/opportunities.json", "w") as outfile: 
     outfile.write(dumps(allOpps, indent=4))

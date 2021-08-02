@@ -3,10 +3,7 @@
 
 @font-face {
   font-family: "hansonbold";
-  src: url("./assets/fonts/hansonbold.woff2") format("woff2"),
-    url("..//..//assests/fonts/hanson-bold-webfont.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
+  src: url("./hansonbold.woff2") format("woff2");
   font-display: swap;
 }
 

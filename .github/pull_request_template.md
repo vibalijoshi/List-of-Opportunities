@@ -9,7 +9,7 @@
 - [ ] UI Update
 # If adding new opportunity
 
-Make sure the added opportunity is in the specified format"
+Make sure the added opportunity is in the specified format:
 ```js
 {
     name: 'Name of the event',

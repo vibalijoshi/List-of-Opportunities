@@ -10,6 +10,8 @@ If you're interested in adding any opportunity to the above list, feel free to m
 - Relevant Link
 - Blog/resources for the same
 
+> Add the opportunity to [the opportunities file](./src/logic/opportunities.ts) in the given format
+
 PS: Opportunities are classified based on the deadline months from previous years. 
 
 If you have any other ideas, feel free to make an issue!

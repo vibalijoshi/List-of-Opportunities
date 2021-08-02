@@ -21,3 +21,4 @@ Opportunity|Deadline|Type
 [WBAI Hackathon 2021](https://dare2compete.com/o/wbai-hackathon-2021-whole-brain-architecture-initiative-wbai-164493?lb=21070516) | 31 Aug 2021 | Hackathon
 [Google Kickstart Round E](https://codingcompetitions.withgoogle.com/kickstart/about) | 22 Aug 2021 | Coding Competition
 [Hiring Contest for Software Engineer (GeeksforGeeks)](https://practice.geeksforgeeks.org/contest/gfg-hiring-software-engineer) | 7 Aug 2021 | Coding Competition
+[ADOBE India WIT Scholarship](https://research.adobe.com/adobe-india-women-in-technology-scholarship/) | 22 Aug 2021 | Research Scholarship

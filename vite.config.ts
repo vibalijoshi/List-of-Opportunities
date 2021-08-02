@@ -85,8 +85,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'robots.txt', 'safari-pinned-tab.svg'],
       manifest: {
-        name: 'Vitesse',
-        short_name: 'Vitesse',
+        name: 'List of Opportunities',
+        short_name: 'List of Opportunities',
         theme_color: '#ffffff',
         icons: [
           {

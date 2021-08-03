@@ -7,12 +7,6 @@ export const opportunities = [
     type: 'Scholarship to attend conference',
   },
   {
-    name: 'Flipkart Girls Wanna Code',
-    link: 'https://www.google.com/amp/s/dare2compete.com/o/flipkart-girls-wanna-code-30-flipkart-145093/amp',
-    deadline: '',
-    type: 'Mentorship',
-  },
-  {
     name: 'Goldman Sachs WeTech',
     link: 'https://www.iie.org/Programs/WeTech/STEM-Scholarships-for-Women/Goldman-Sachs-Scholarship',
     deadline: 'January 18',
@@ -64,6 +58,12 @@ export const opportunities = [
   //End of Jan
   
   //Start of Feb
+  {
+    name: 'Flipkart Girls Wanna Code',
+    link: 'https://www.google.com/amp/s/dare2compete.com/o/flipkart-girls-wanna-code-30-flipkart-145093/amp',
+    deadline: '5 Feb',
+    type: 'Mentorship',
+  },
   {
     name: 'Outreachy Summer Cycle',
     link: 'https://www.outreachy.org/',

@@ -1,29 +1,32 @@
 # Hack the Opportunities
 Never miss a deadline again!<br>
-[Link to the excel sheet](https://docs.google.com/spreadsheets/d/1nGXJTz0dGnj7yaFzTT_q1HcnKny4avz8aRJZW8lm2Ic/edit?usp=sharing)[OUTDATED, please refer website]
+Can't keep track of the opportunities or you get to know about it when it's too late?
+I too, had been struggling with constantly learning about new opportunities when someone posted about them on LinkedIn unfortunately way past the deadline :(
+So I decided to maintain a database of all the opportunities I came across and this repository is the result!
+This list is not complete and I alone cannot make it whole. This is where the community efforts come and so I made the list open Source! <br>
+## Hack the Hack!
+- I made a hackathon calendar that you can subscribe to and never miss an awesome hackathon again! <br>
+- Subscribe here: [Hack the Hack Calendar](https://neon.ly/HacktheHackCalendar)
+## How to Hack the Opportunities?
+Watch this video to get the best out of this:
+<a href=""> <img src="" alt="Demo Video" height='500' width='900'/> </a>
+
+## Contribution
+
+If you're interested in adding any opportunity to the above list, feel free to make a Pull Request:
+> Add the opportunity to [the opportunities file](./src/logic/opportunities.ts) in the given format
+PS: Opportunities are classified based on the deadline months from previous years. 
+
+If you have any other ideas, feel free to make an issue!
+
+[Link to the excel sheet](https://docs.google.com/spreadsheets/d/1nGXJTz0dGnj7yaFzTT_q1HcnKny4avz8aRJZW8lm2Ic/edit?usp=sharing) [OUTDATED, please refer website]
 #### GitHub Repository Structure
 
 | S.No. | Dir Name | Purpose |
 | --------------- | --------------- | --------------- |
 | 1. | [data](https://github.com/vibalijoshi/List-of-Opportunities/tree/main/data) | Month-wise opportunities listed|
 | 2. | [src/logic/opportunities.ts](https://github.com/vibalijoshi/List-of-Opportunities/blob/main/src/logic/opportunities.ts) | database for website |
-## Contribution
-This list is not complete and I alone cannot make it whole. This is where the community efforts come and so I made the list open Source! <br>
-If you're interested in adding any opportunity to the above list, feel free to make a Pull Request with the following in the format above:
-- Name of the program and type
-- Deadline(approx)
-- Relevant Link
-- Blog/resources for the same
 
-> Add the opportunity to [the opportunities file](./src/logic/opportunities.ts) in the given format
-
-PS: Opportunities are classified based on the deadline months from previous years. 
-
-If you have any other ideas, feel free to make an issue!
-
-## Hack the Hack!
-- I made a hackathon calendar that you can subscribe to and never miss an awesome hackathon again! <br>
-- Subscribe here: [Hack the Hack Calendar](https://neon.ly/HacktheHackCalendar)
 
 ---
 

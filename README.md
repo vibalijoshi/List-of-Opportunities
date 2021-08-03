@@ -16,13 +16,15 @@ Watch this video to get the best out of this:
 ![Uzoma Medium Gif](https://github.com/vibalijoshi/List-of-Opportunities/blob/main/gifs/2021.gif)
 - Scholarship
 ![Uzoma Medium Gif](https://github.com/vibalijoshi/List-of-Opportunities/blob/main/gifs/scholarship.gif)
+- Women in Tech Opportunities: Type Women
+![Uzoma Medium Gif](https://github.com/vibalijoshi/List-of-Opportunities/blob/main/gifs/women.gif)
+- By Month
+![Uzoma Medium Gif](https://github.com/vibalijoshi/List-of-Opportunities/blob/main/gifs/august.gif)
 - Mentorship
 - Internship
 - Fellowship
 - Hackathons (PIO/PPO)
 - Coding Challenges
-- Women in Tech Opportunities: Type Women
-![Uzoma Medium Gif](https://github.com/vibalijoshi/List-of-Opportunities/blob/main/gifs/women.gif)
 
 ## Contribution
 

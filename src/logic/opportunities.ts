@@ -1,4 +1,5 @@
 export const opportunities = [
+  // Start of Jan
   {
     name: 'HPAIR Harvard Conference',
     link: 'https://hpair.org/harvard-conference-2021',
@@ -59,6 +60,10 @@ export const opportunities = [
     deadline: '31 January',
     type: 'Scholarship for girls',
   },
+  
+  //End of Jan
+  
+  //Start of Feb
   {
     name: 'Outreachy Summer Cycle',
     link: 'https://www.outreachy.org/',
@@ -107,6 +112,11 @@ export const opportunities = [
     deadline: 'February',
     type: 'Research Fellowship',
   },
+  
+  //End of Feb
+  
+  
+  //Start of March
   {
     name: 'Cisco thingQbator',
     link: 'https://thingqbator.nasscomfoundation.org/login',
@@ -203,6 +213,10 @@ export const opportunities = [
     deadline: '15 March',
     type: 'Fellowship',
   },
+  //End of March
+  
+  
+  //Start of April
   {
     name: 'GHC Scholarship',
     link: 'https://ghc.anitab.org/attend/scholarships/',
@@ -287,6 +301,10 @@ export const opportunities = [
     deadline: '2 April',
     type: 'Scholarship (US only)',
   },
+  //End of April
+  
+  
+  //Start of May
   {
     name: 'Nutanix',
     link: 'https://www.nutanix.com/scholarships',
@@ -395,6 +413,12 @@ export const opportunities = [
     deadline: '10 May',
     type: 'Mentorship',
   },
+  
+  //End of May
+  
+  
+  
+  //Start of June
   {
     name: 'Code for Good by JP Morgan',
     link: 'https://careers.jpmorgan.com/us/en/students/programs/code-for-good?search=&tags=location__AsiaPacific__India',
@@ -443,6 +467,10 @@ export const opportunities = [
     deadline: '6 Jun',
     type: 'Scholarship',
   },
+  //End of June
+  
+  
+  //Start of July
   {
     name: 'Google Research Intern, PhD, Fall 2021',
     link: 'https://careers.google.com/jobs/results/72189721129689798/',
@@ -521,6 +549,9 @@ export const opportunities = [
     deadline: 'July 10',
     type: 'Hackathon (PIO and PPO offers)',
   },
+  //End of july
+  
+  //start of aug
   {
     name: 'Juniper Networks Scholarship and Internship',
     link: 'https://www.iie.org/Programs/WeTech/STEM-Scholarships-for-Women/Juniper-Networks-Scholarship-and-Internship/India',
@@ -647,6 +678,9 @@ export const opportunities = [
     deadline: 'August 7',
     type: 'Coding Competition',
   },
+  //end of aug
+  
+  //start of sept
   {
     name: 'She Codes, Indeed',
     link: 'https://www.shecodesindeed.com/',
@@ -677,6 +711,9 @@ export const opportunities = [
     deadline: 'September 15',
     type: 'Campus Ambassador',
   },
+  //end of sept
+  
+  //start of oct
   {
     name: 'FOSS Asia Codeheat',
     link: 'https://codeheat.org/',
@@ -719,6 +756,9 @@ export const opportunities = [
     deadline: 'October 23',
     type: 'Scholarship',
   },
+  //end of oct
+  
+  //start of nov
   {
     name: 'Pratibha - Scholarships for Women Engineers',
     link: 'http://www.eaton.in/EatonIN/EatonExcellenceAwards/index.htm',
@@ -743,6 +783,9 @@ export const opportunities = [
     deadline: 'November 6',
     type: 'Hackathon',
   },
+  //end of nov
+  
+  //start of dec
   {
     name: 'Women Who Code Mentorship',
     link: 'https://www.womenwhocode.com/blog/women-who-code-leadership-programs',
@@ -773,6 +816,9 @@ export const opportunities = [
     deadline: 'December 31',
     type: 'Internship',
   },
+  //end of dec
+  
+  //start of All Year
   {
     name: 'DrivenData',
     link: 'https://www.drivendata.org/competitions',
@@ -815,4 +861,5 @@ export const opportunities = [
     deadline: 'All Year',
     type: 'Student Ambassador',
   },
+  //end of all Year
 ]

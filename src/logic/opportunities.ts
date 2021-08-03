@@ -673,6 +673,12 @@ export const opportunities = [
     type: 'Coding Competition',
   },
   {
+    name: 'GirlScript Winter of Contributing ',
+    link: 'https://gwoc.girlscript.tech/',
+    deadline: '15 August',
+    type: 'Open Source Mentorship',
+  },
+  {
     name: 'Hiring Contest for Software Engineer (GeeksforGeeks)',
     link: 'GeeksforGeeks',
     deadline: 'August 7',

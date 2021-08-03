@@ -1,6 +1,6 @@
 # Hack the Opportunities
 Never miss a deadline again!<br>
-[Link to the excel sheet](https://docs.google.com/spreadsheets/d/1nGXJTz0dGnj7yaFzTT_q1HcnKny4avz8aRJZW8lm2Ic/edit?usp=sharing)
+[Link to the excel sheet](https://docs.google.com/spreadsheets/d/1nGXJTz0dGnj7yaFzTT_q1HcnKny4avz8aRJZW8lm2Ic/edit?usp=sharing)[OUTDATED, please refer website]
 #### GitHub Repository Structure
 
 | S.No. | Dir Name | Purpose |

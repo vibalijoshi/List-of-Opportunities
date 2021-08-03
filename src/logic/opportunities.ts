@@ -166,7 +166,7 @@ export const opportunities = [
   {
     name: 'J.P. Morgan Quant Mentorship Program',
     link: 'https://jpmc.recsolu.com/external/events/7fhj8JsCg3MnReoSQFtVVg',
-    deadline: 'before 15th March',
+    deadline: 'before 15 March',
     type: 'Mentorship for Women',
   },
    {
@@ -178,7 +178,7 @@ export const opportunities = [
   {
     name: 'Cisco thingQbator',
     link: 'https://thingqbator.nasscomfoundation.org/login',
-    deadline: '15th March',
+    deadline: '15 March',
     type: 'Mentorship',
   },
   {
@@ -208,7 +208,7 @@ export const opportunities = [
   {
     name: 'Google Generation Scholarship APAC',
     link: 'https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/',
-    deadline: '30th March',
+    deadline: '30 March',
     type: 'Scholarship for Women',
   },   
   

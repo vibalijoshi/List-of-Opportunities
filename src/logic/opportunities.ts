@@ -6,29 +6,25 @@ export const opportunities = [
     deadline: '',
     type: 'Scholarship to attend conference',
   },
-  {
-    name: 'Goldman Sachs WeTech',
-    link: 'https://www.iie.org/Programs/WeTech/STEM-Scholarships-for-Women/Goldman-Sachs-Scholarship',
-    deadline: 'January 18',
-    type: 'Mentorship',
-  },
+  
   {
     name: 'Qualcomm Global Scholars Program',
     link: 'https://www.iie.org/Programs/WeTech/STEM-Scholarships-for-Women/Qualcomm-Global-Scholars-Program/India',
-    deadline: 'January 2',
+    deadline: '2 January',
     type: 'Scholarship',
+  },
+  
+  {
+    name: 'MLH Fellowship',
+    link: 'https://fellowship.mlh.io/programs/open-source',
+    deadline: '4 January',
+    type: 'Mentorship',
   },
   {
     name: 'Season of KDE',
     link: 'https://season.kde.org/',
-    deadline: 'January 4',
+    deadline: '4 January',
     type: 'Summer of Code/ Mentorship',
-  },
-  {
-    name: 'Intuit Augment Program',
-    link: 'https://www.surveymonkey.com/r/INTUIT_2020',
-    deadline: '21 January',
-    type: 'Mentorship',
   },
   {
     name: 'Goldman Sachs Women Possibilities Summit: Finance',
@@ -37,17 +33,23 @@ export const opportunities = [
     type: 'Scholarship to attend conference',
   },
   {
-    name: 'MLH Fellowship',
-    link: 'https://fellowship.mlh.io/programs/open-source',
-    deadline: '4 January',
-    type: 'Mentorship',
-  },
-  {
     name: 'Internshala Career Scholarship for Girls',
     link: 'https://blog.internshala.com/2020/12/internshala-career-scholarship-for-girls-2021/',
     deadline: '15 January',
     type: 'Scholarship',
   },
+  {
+    name: 'Goldman Sachs WeTech',
+    link: 'https://www.iie.org/Programs/WeTech/STEM-Scholarships-for-Women/Goldman-Sachs-Scholarship',
+    deadline: '18 January',
+    type: 'Mentorship',
+  },
+  {
+    name: 'Intuit Augment Program',
+    link: 'https://www.surveymonkey.com/r/INTUIT_2020',
+    deadline: '21 January',
+    type: 'Mentorship',
+  },  
   {
     name: 'Pragati Scholarship 2021 \u00E2\u20AC\u201C AICTE',
     link: 'https://www.buddy4study.com/article/pragati-scholarship',

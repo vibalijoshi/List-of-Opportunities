@@ -31,6 +31,7 @@ const filteredOps = computed(() => {
         v-model="search"
         type="text"
         name="search"
+        autocomplete="off"
         placeholder="Name, month or type"
         class="py-10 searchbar"
       />

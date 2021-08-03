@@ -6,7 +6,7 @@ Never miss a deadline again!<br>
 | S.No. | Dir Name | Purpose |
 | --------------- | --------------- | --------------- |
 | 1. | [data](https://github.com/vibalijoshi/List-of-Opportunities/tree/main/data) | Month-wise opportunities listed|
-| 2. | [src/logic/opportunities.ts](https://github.com/vibalijoshi/List-of-Opportunities/blob/main/src/logic/opportunities.ts) | contains code for website |
+| 2. | [src/logic/opportunities.ts](https://github.com/vibalijoshi/List-of-Opportunities/blob/main/src/logic/opportunities.ts) | database for website |
 ## Contribution
 This list is not complete and I alone cannot make it whole. This is where the community efforts come and so I made the list open Source! <br>
 If you're interested in adding any opportunity to the above list, feel free to make a Pull Request with the following in the format above:

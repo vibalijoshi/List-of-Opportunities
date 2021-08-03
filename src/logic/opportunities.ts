@@ -45,7 +45,7 @@ export const opportunities = [
     type: 'Mentorship for Women',
   },  
   {
-    name: 'Pragati Scholarship 2021 \u00E2\u20AC\u201C AICTE',
+    name: 'Pragati Scholarship',
     link: 'https://www.buddy4study.com/article/pragati-scholarship',
     deadline: '31 January',
     type: 'Scholarship for Women',

@@ -1,7 +1,7 @@
 # Hack the Opportunities
-Never miss a deadline again!<br>
+Never miss a deadline again!<br><br>
 Can't keep track of the opportunities or you get to know about it when it's too late?
-I too, had been struggling with constantly learning about new opportunities when someone posted about them on LinkedIn unfortunately way past the deadline :(
+I too, had been struggling with constantly learning about new opportunities when someone posted about them on LinkedIn unfortunately way past the deadline :( <br><br>
 So I decided to maintain a database of all the opportunities I came across and this repository is the result!
 This list is not complete and I alone cannot make it whole. This is where the community efforts come and so I made the list open Source! <br>
 ## Hack the Hack!
@@ -15,6 +15,7 @@ Watch this video to get the best out of this:
 
 If you're interested in adding any opportunity to the above list, feel free to make a Pull Request:
 > Add the opportunity to [the opportunities file](./src/logic/opportunities.ts) in the given format
+
 PS: Opportunities are classified based on the deadline months from previous years. 
 
 If you have any other ideas, feel free to make an issue!

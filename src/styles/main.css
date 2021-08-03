@@ -1,0 +1,40 @@
+@import "./markdown.css";
+@import "./table.css";
+
+@font-face {
+  font-family: "hansonbold";
+  src: url("./hansonbold.woff2") format("woff2");
+  font-display: swap;
+}
+
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+html.dark {
+  background: #333333;
+}
+
+#nprogress {
+  pointer-events: none;
+}
+
+#nprogress .bar {
+  @apply bg-teal-600 opacity-75;
+
+  position: fixed;
+  z-index: 1031;
+  top: 0;
+  left: 0;
+
+  width: 100%;
+  height: 2px;
+}
+.custom-text-bold {
+  font-family: "hansonbold";
+  font-weight: 100;
+}

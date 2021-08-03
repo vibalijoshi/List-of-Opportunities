@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+
+.opptable {
+  display: block;
+  overflow-x: auto;
+  white-space: nowrap;
+  @apply divide-y divide-gray-200 dark:divide-dark-200;
+}
+tbody {
+  @apply bg-white dark:bg-dark-700 divide-y divide-gray-200 dark:divide-dark-200;
+}
+thead {
+  @apply;
+}
+th {
+  @apply px-6 py-5;
+}
+tr > th {
+  @apply text-left text-sm font-medium bg-gray-200 dark:bg-dark-500 text-dark-500 dark:text-gray-300 uppercase tracking-wider;
+}
+tr {
+  @apply;
+}
+td {
+  @apply px-6 py-4;
+}
+tr > td:last-child, tr > th:last-child {
+  width: 1%;
+  white-space: nowrap;
+}
+
+td > a:hover {
+  color: rgb(88, 111, 209);
+  text-decoration: underline;
+}

@@ -11,6 +11,19 @@ This list is not complete and I alone cannot make it whole. This is where the co
 Watch this video to get the best out of this:
 <a href=""> <img src="" alt="Demo Video" height='500' width='900'/> </a>
 
+### Filter out the opportunities on the basis of 
+- 2021 Deadlines
+![Uzoma Medium Gif](https://github.com/vibalijoshi/List-of-Opportunities/blob/main/gifs/2021.gif)
+- Scholarship
+![Uzoma Medium Gif](https://github.com/vibalijoshi/List-of-Opportunities/blob/main/gifs/scholarship.gif)
+- Mentorship
+- Internship
+- Fellowship
+- Hackathons (PIO/PPO)
+- Coding Challenges
+- Women in Tech Opportunities: Type Women
+![Uzoma Medium Gif](https://github.com/vibalijoshi/List-of-Opportunities/blob/main/gifs/women.gif)
+
 ## Contribution
 
 If you're interested in adding any opportunity to the above list, feel free to make a Pull Request:

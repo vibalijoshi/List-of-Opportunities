@@ -52,7 +52,7 @@ const filteredOps = computed(() => {
         <tbody v-if="filteredOps.length > 0">
           <tr v-for="opp in filteredOps" :key="opp.name + opp.deadline">
             <td>
-              <a :href="opp.link" rel="noreferrer">
+              <a :href="opp.link" target="_blank" rel="noreferrer">
                 {{ opp.name }}
                 <bx-bx-link />
               </a>

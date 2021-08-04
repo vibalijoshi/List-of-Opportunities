@@ -149,7 +149,7 @@ export const opportunities = [
     name: 'American Express Makethon',
     link: 'https://american-express-makeathon-2021.hackerearth.com/',
     deadline: '12 March',
-    type: 'Intenship for Women',
+    type: 'Internship for Women',
   },
    {
     name: 'Micron Global Women\'s Mentorship Program',
@@ -664,7 +664,7 @@ export const opportunities = [
   {
     name: 'Outreachy Winter Internship',
     link: 'https://www.outreachy.org/apply/eligibility/',
-    deadline: 'August 30 2021',
+    deadline: '30 August 2021',
     type: 'Internship',
   },  
   {

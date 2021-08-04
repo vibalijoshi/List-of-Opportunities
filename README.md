@@ -8,6 +8,7 @@ This list is not complete and I alone cannot make it whole. This is where the co
 - I made a hackathon calendar that you can subscribe to and never miss an awesome hackathon again! <br>
 - Subscribe here: [Hack the Hack Calendar](https://neon.ly/HacktheHackCalendar)
 ## How to Hack the Opportunities?
+Huge shoutout to [Anik Das](https://github.com/sadn1ck/sadn1ck) for his contribution to the website.
 Watch this video to get the best out of this:
 <a href=""> <img src="" alt="Demo Video" height='500' width='900'/> </a>
 

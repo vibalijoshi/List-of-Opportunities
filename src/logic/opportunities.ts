@@ -729,6 +729,12 @@ export const opportunities = [
     type: 'Scholarship to attend conf',
   },
   {
+    name: 'Zonta International Women in Technology Scholarship',
+    link: 'https://www.zonta.org/womenintech',
+    deadline: '15 October 2021',
+    type: 'Scholarship for Women',
+  },
+  {
     name: 'Loreal India For Young Women In Science Scholarships',
     link: 'https://www.buddy4study.com/page/loreal-india-for-young-women-in-science-scholarships',
     deadline: '23 October',

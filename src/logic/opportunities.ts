@@ -675,6 +675,12 @@ export const opportunities = [
     type: 'Registration Scholarship',
   },
   {
+    name: 'Decode with Google',
+    link: 'https://careersonair.withgoogle.com/events/decode-with-google-21',
+    deadline: '26 August 2021',
+    type: 'Google Event',
+  },
+  {
     name: 'Facebook Hacker Cup',
     link: 'https://www.facebook.com/codingcompetitions/hacker-cup',
     deadline: '27 August 2021',

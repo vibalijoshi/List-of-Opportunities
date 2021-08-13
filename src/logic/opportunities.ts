@@ -720,6 +720,12 @@ export const opportunities = [
     type: 'Scholarship',
   },
   {
+    name: 'Facebook Fellowship program',
+    link: 'https://research.fb.com/blog/2021/08/application-now-open-for-the-2022-facebook-fellowship-program/',
+    deadline: '20 September',
+    type: 'Fellowship',
+  },  
+  {
     name: '30 Days of Google Cloud',
     link: 'https://cloud.google.com/blog/topics/training-certifications/google-cloud-free-training-opportunities-q1-2021',
     deadline: '30 September',

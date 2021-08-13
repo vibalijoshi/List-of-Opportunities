@@ -551,6 +551,12 @@ export const opportunities = [
     type: 'Hackathon + Scholarship for Women',
   },
   {
+    name: 'Google Dialogflow CX Competition (Global)',
+    link: 'https://events.withgoogle.com/dialogflow-cx-competition-global/?utm_source=medium_post&utm_medium=site&utm_campaign=cx_competition',
+    deadline: '27 July 2021',
+    type: 'Open Source Competition',
+  },
+  {
     name: 'Amazon ML Challenge',
     link: 'https://amazonmlchallenge.splashthat.com/',
     deadline: '29 July',

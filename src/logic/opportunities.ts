@@ -357,6 +357,12 @@ export const opportunities = [
     type: 'GDSC Lead Application',
   },
   {
+    name: 'Hackwithinfy',
+    link: 'https://www.infosys.com/careers/hackwithinfy.html',
+    deadline: '5 May',
+    type: 'Hackathon with PII and PPO at Infosys',
+  },
+  {
     name: 'FOSSE IIT Bombay',
     link: 'https://fossee.in/fellowship/2021',
     deadline: '5 May',
@@ -631,6 +637,12 @@ export const opportunities = [
     deadline: '15 August 2021',
     type: 'Open Source Mentorship',
   },
+   {
+    name: 'IET India Scholarship Award 2021',
+    link: 'https://scholarships.theietevents.com/#!',
+    deadline: '15 August 2021',
+    type: 'Scholarship',
+  },
   {
     name: 'Adobe India Women-in-Technology Scholarship',
     link: 'https://research.adobe.com/adobe-india-women-in-technology-scholarship/',
@@ -654,6 +666,12 @@ export const opportunities = [
     link: 'https://www.facebook.com/codingcompetitions/hacker-cup',
     deadline: '27 August 2021',
     type: 'Coding Competition',
+  },
+   {
+    name: 'Twitter DevelopHer',
+    link: 'https://join.smartrecruiters.com/Twitter2/5485dd2b-817e-41ac-ad36-33735b8c2b68-developher2021india',
+    deadline: '27 August 2021',
+    type: 'Internship',
   },
   {
     name: 'Github Campus Expert Program',
@@ -686,7 +704,7 @@ export const opportunities = [
   {
     name: 'She Codes, Indeed',
     link: 'https://www.indeedevents.com/en-in/shecodes-women-at-indeed-11-13092021-cs/',
-    deadline: '11 September 2021',
+    deadline: '10 September 2021',
     type: 'Virtual Event',
   },
   {

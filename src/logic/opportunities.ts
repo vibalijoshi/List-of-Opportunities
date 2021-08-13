@@ -590,6 +590,12 @@ export const opportunities = [
     type: 'Research Internship',
   },
   {
+    name: 'WiCyS:Security Training Scholarship',
+    link: 'https://www.wicys.org/benefits/security-training-scholarship/',
+    deadline: '2 August 2021',
+    type: 'Fellowship for Women',
+  },
+  {
     name: 'Open Networking and Edge Summit North America',
     link: 'https://events.linuxfoundation.org/open-networking-edge-summit-north-america/attend/scholarships/',
     deadline: '5 August 2021',
@@ -607,6 +613,7 @@ export const opportunities = [
     deadline: '6 August 2021',
     type: '10-week workshop series with Facebook SWE',
   },
+  
   {
     name: 'Hiring Contest for Software Engineer (GeeksforGeeks)',
     link: 'GeeksforGeeks',

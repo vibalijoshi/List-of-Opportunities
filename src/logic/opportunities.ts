@@ -632,6 +632,12 @@ export const opportunities = [
     type: 'FTE and Internship',
   },
   {
+    name: 'DXC Progressing Minds Scholarship',
+    link: 'https://www.buddy4study.com/page/dxc-progressing-minds-scholarship',
+    deadline: '15 August 2021',
+    type: 'Scholarship',
+  },
+  {
     name: 'GirlScript Winter of Contributing ',
     link: 'https://gwoc.girlscript.tech/',
     deadline: '15 August 2021',

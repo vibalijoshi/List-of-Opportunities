@@ -695,7 +695,7 @@ export const opportunities = [
   {
     name: 'Github Campus Expert Program',
     link: 'https://apply.githubcampus.expert/',
-    deadline: 'End of August 2021',
+    deadline: '29 August 2021',
     type: 'Campus Expert Program',
   },  
   {

@@ -663,6 +663,12 @@ export const opportunities = [
     type: 'Scholarship',
   },
   {
+    name: 'Amazon WoW',
+    link: 'https://xathon.mettl.com/event/AmazonWoW',
+    deadline: '16 August 2021',
+    type: 'Internship and FT for females',
+  },
+  {
     name: 'Adobe India Women-in-Technology Scholarship',
     link: 'https://research.adobe.com/adobe-india-women-in-technology-scholarship/',
     deadline: '22 August 2021',

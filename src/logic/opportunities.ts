@@ -590,12 +590,6 @@ export const opportunities = [
     type: 'Research Scholarship',
   },
   {
-    name: 'Mitacs Globalink Research Internship 2022',
-    link: 'https://www.mitacs.ca/en/programs/globalink/globalink-research-internship',
-    deadline: 'August',
-    type: 'Research Internship',
-  },
-  {
     name: 'WiCyS:Security Training Scholarship',
     link: 'https://www.wicys.org/benefits/security-training-scholarship/',
     deadline: '2 August 2021',
@@ -755,7 +749,13 @@ export const opportunities = [
     link: 'https://research.fb.com/blog/2021/08/application-now-open-for-the-2022-facebook-fellowship-program/',
     deadline: '20 September',
     type: 'Fellowship',
-  },  
+  },
+  {
+    name: 'Mitacs Globalink Research Internship 2022',
+    link: 'https://www.mitacs.ca/en/programs/globalink/globalink-research-internship',
+    deadline: '22 September 2021',
+    type: 'Research Internship',
+  },
   {
     name: '30 Days of Google Cloud',
     link: 'https://cloud.google.com/blog/topics/training-certifications/google-cloud-free-training-opportunities-q1-2021',

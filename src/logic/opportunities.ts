@@ -727,6 +727,12 @@ export const opportunities = [
   
   //start of sept
   {
+    name: 'American Express CodeStreet 21',
+    link: 'https://codestreet-2021.hackerearth.com/',
+    deadline: '5 September',
+    type: 'Internship and FTE',
+  },
+  {
     name: 'She Codes, Indeed',
     link: 'https://www.indeedevents.com/en-in/shecodes-women-at-indeed-11-13092021-cs/',
     deadline: '10 September 2021',

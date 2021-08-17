@@ -824,6 +824,12 @@ export const opportunities = [
     deadline: '6 November',
     type: 'Hackathon for Women',
   },
+  {
+    name: 'Education Scholarship Scheme for Army Personnel (ESSA)',
+    link: 'https://scholarship.awesindia.com/',
+    deadline: '30 November 2021',
+    type: 'Scholarship',
+  },
   //end of nov
   
   //start of dec

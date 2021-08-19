@@ -745,12 +745,6 @@ export const opportunities = [
     type: 'Campus Ambassador',
   },
   {
-    name: 'Venkat Panchapakesan Memorial Scholarship',
-    link: 'https://buildyourfuture.withgoogle.com/scholarships/venkat-panchapakesan-memorial-scholarship/',
-    deadline: '15 September',
-    type: 'Scholarship',
-  },
-  {
     name: 'Facebook Fellowship program',
     link: 'https://research.fb.com/blog/2021/08/application-now-open-for-the-2022-facebook-fellowship-program/',
     deadline: '20 September',

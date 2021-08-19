@@ -868,6 +868,12 @@ export const opportunities = [
     type: 'Internship, Stipend, Prizes',
   },
   {
+    name: 'Postman Student Programs',
+    link: 'https://www.postman.com/company/student-program/',
+    deadline: 'All Year',
+    type: 'Student Ambassador and Development',
+  },
+  {
     name: 'UiPath Student Developer Program',
     link: 'https://community.uipath.com/uipath-student-developers-program',
     deadline: 'All Year',

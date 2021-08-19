@@ -898,6 +898,12 @@ export const opportunities = [
     type: 'Student Ambassador',
   },
   {
+    name: 'GitKraken Ambassador Program',
+    link: 'https://www.gitkraken.com/ambassador',
+    deadline: 'All Year',
+    type: 'Student Ambassador',
+  },
+  {
     name: 'AWS Educate Student Ambassador Program',
     link: 'https://aws.amazon.com/education/awseducate/student-ambassador-program/',
     deadline: 'All Year',

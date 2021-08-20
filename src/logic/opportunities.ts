@@ -729,7 +729,7 @@ export const opportunities = [
   {
     name: 'American Express CodeStreet 21',
     link: 'https://codestreet-2021.hackerearth.com/',
-    deadline: '5 September',
+    deadline: '5 September 2021',
     type: 'Internship and FTE',
   },
   {

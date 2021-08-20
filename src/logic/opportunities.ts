@@ -910,6 +910,18 @@ export const opportunities = [
     type: 'Student Ambassador',
   },
   {
+    name: 'AWS Educate Cloud Ambassador Program',
+    link: 'https://aws.amazon.com/education/awseducate/cloud-ambassador-program/',
+    deadline: 'All Year',
+    type: 'Student Ambassador',
+  },
+  {
+    name: 'AngelHack Ambassador',
+    link: 'https://angelhack.com/ambassadors/',
+    deadline: 'All Year',
+    type: 'Student Ambassador',
+  },
+  {
     name: 'OnePlus Student Program',
     link: 'https://www.oneplus.in/campus',
     deadline: 'All Year',

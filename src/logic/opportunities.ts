@@ -182,6 +182,12 @@ export const opportunities = [
     type: 'Mentorship',
   },
   {
+    name: 'WTEF by TalentSprint',
+    link: 'https://we.talentsprint.com/',
+    deadline: '21 March',
+    type: 'Fellowship for Women',
+  },
+  {
     name: 'Virtual Insights Series: An Exploratory Program',
     link: 'https://www.goldmansachs.com/careers/students/programs/americas/undergrad-virtual-insight-series.html',
     deadline: '21 March',

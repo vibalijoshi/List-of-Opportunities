@@ -2,6 +2,7 @@
 
 Opportunity|Deadline|Type
 ----|-----|-----
+[WTEF Program by TalentSprint, Supported by Google](https://we.talentsprint.com/) | 1st March | Fellowship
 [Cisco thingQbator](https://thingqbator.nasscomfoundation.org/login) | 15th March | Mentorship
 [Google Generation Scholarship APAC](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/) | 30th March | Scholarship
 [LinkedIn CoachlN](https://coachin2021.splashthat.com/) | March | Mentorship

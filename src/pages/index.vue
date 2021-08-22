@@ -14,9 +14,15 @@ useHead({
 
 const search = ref('')
 
+const matchFilter = (pattern: string, loc: string) => {
+  const search = pattern.toLowerCase()
+  const searchSpace = loc.toLowerCase()
+  return searchSpace.includes(search)
+}
+
 const filteredOps = computed(() => {
-  const filter = new RegExp(search.value.trim(), 'i')
-  return opportunities.filter(el => el.name.match(filter) || el.type.match(filter) || el.deadline.match(filter))
+  const searchVal = search.value.trim()
+  return opportunities.filter(el => matchFilter(searchVal, el.name) || matchFilter(searchVal, el.type) || matchFilter(searchVal, el.deadline))
 })
 </script>
 

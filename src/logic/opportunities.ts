@@ -184,7 +184,7 @@ export const opportunities = [
   {
     name: 'WTEF by TalentSprint',
     link: 'https://we.talentsprint.com/',
-    deadline: 'March',
+    deadline: '21 March',
     type: 'Fellowship for Women',
   },
   {

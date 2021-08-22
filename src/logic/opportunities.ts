@@ -327,6 +327,18 @@ export const opportunities = [
     type: 'Scholarship for Women in Tech',
   },   
   {
+    name: 'Digital India Internship Scheme (MeitY)',
+    link: 'https://www.meity.gov.in/digital-india-internship-scheme-2021',
+    deadline: '29 April',
+    type: 'Internship',
+  },   
+  {
+    name: 'Linux Foundation Training Scholarship (LiFT)',
+    link: 'https://openjsf.org/blog/2021/04/13/lift-scholarship/',
+    deadline: '30 April',
+    type: 'Scholarship',
+  },
+  {
     name: 'Western Union Scholarship',
     link: 'https://foundation.westernunion.com/wuscholars/index.html',
     deadline: '30 April',
@@ -768,6 +780,13 @@ export const opportunities = [
     deadline: '30 September',
     type: 'Cloud challenge',
   },  
+  {
+    name: 'DRDO Scholarship Scheme for Girl',
+    link: 'https://www.drdo.gov.in/sites/default/files/whats_new_document/advt_ardb2020.pdf',
+    deadline: '30 September',
+    type: 'Scholarship for Women',
+  },
+
   //end of sept
   
   //start of oct
@@ -807,6 +826,13 @@ export const opportunities = [
     deadline: '31 October',
     type: 'Open Source Program',
   },
+  {
+    name: 'S.N. Bose Scholars Program',
+    link: 'https://www.iusstf.org/program/for-indian-students',
+    deadline: '31 October',
+    type: 'Scholarship',
+  },
+
   
   
   //end of oct

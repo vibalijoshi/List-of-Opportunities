@@ -1,30 +1,19 @@
 export const opportunities = [
-  {
-    name: 'Data Scientist Intern, PhD, Summer 2022',
-    link: 'https://careers.google.com/jobs/results/84091885510894278-data-scientist-intern-phd-summer-2022/?distance=50&hl=en_US&jlo=en_US&q=intership',
-    deadline: 'Fall, 2021',
-    type: 'Internship',
-  },
-  {
-    name: 'Software Engineering Intern',
-    link: 'https://careers.google.com/jobs/results/138852775392879302-software-engineering-intern-winter-2022/?distance=50&hl=en_US&jlo=en_US&q=intership',
-    deadline: '27th August, 2021',
-    type: 'Internship',
-  },
-  {
-    name: 'Software Engineering Intern, Winter 2022',
-    link: 'https://careers.google.com/jobs/results/138852775392879302-software-engineering-intern-winter-2022/?distance=50&hl=en_US&jlo=en_US&q=internship',
-    deadline: 'Start in January 2022',
-    type: 'Internship',
-  },
-  {
+ 
+
+  // Start of Jan
+    {
     name: 'Data Engineer Internship',
     link: 'https://www.amazon.jobs/en-gb/jobs/1649144/data-engineer-internship',
     deadline: '2 January',
     type: 'Internship',
   },
-  // Start of Jan
-  
+   {
+    name: 'Software Engineering Intern, Winter 2022',
+    link: 'https://careers.google.com/jobs/results/138852775392879302-software-engineering-intern-winter-2022/?distance=50&hl=en_US&jlo=en_US&q=internship',
+    deadline: 'Start in January 2022',
+    type: 'Internship',
+  },
   {
     name: 'Qualcomm Global Scholars Program',
     link: 'https://www.iie.org/Programs/WeTech/STEM-Scholarships-for-Women/Qualcomm-Global-Scholars-Program/India',
@@ -741,6 +730,12 @@ export const opportunities = [
     type: 'Internship',
   },
   {
+    name: 'Software Engineering Intern',
+    link: 'https://careers.google.com/jobs/results/138852775392879302-software-engineering-intern-winter-2022/?distance=50&hl=en_US&jlo=en_US&q=intership',
+    deadline: '27th August, 2021',
+    type: 'Internship',
+  },
+  {
     name: 'Github Campus Expert Program',
     link: 'https://apply.githubcampus.expert/',
     deadline: '29 August 2021',
@@ -768,6 +763,12 @@ export const opportunities = [
   //end of aug
   
   //start of sept
+   {
+    name: 'Data Scientist Intern, PhD, Summer 2022',
+    link: 'https://careers.google.com/jobs/results/84091885510894278-data-scientist-intern-phd-summer-2022/?distance=50&hl=en_US&jlo=en_US&q=intership',
+    deadline: 'Fall, 2021',
+    type: 'Internship',
+  },
   {
     name: 'American Express CodeStreet 21',
     link: 'https://codestreet-2021.hackerearth.com/',

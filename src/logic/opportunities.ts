@@ -741,6 +741,13 @@ export const opportunities = [
     deadline: '31 August 2021',
     type: 'Scholarship',
   },
+
+  {
+    name: 'Hack-O-Uplift',
+    link: 'https://uplift.girlscript.tech/hack-o-uplift',
+    deadline: '30 August 2021',
+    type: 'Hackathon',
+  },
   //end of aug
   
   //start of sept

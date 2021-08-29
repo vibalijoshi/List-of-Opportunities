@@ -134,6 +134,12 @@ export const opportunities = [
     type: 'Mentorship for Women',
   },
   {
+    name: 'Microsoft Reinforcement Learning Open Source Fest',
+    link: 'https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/',
+    deadline: '1 March',
+    type: 'Open Source Fest',
+  },
+  {
     name: 'Crossroads Emerging Leaders Program',
     link: 'https://cmes.fas.harvard.edu/crossroads-emerging-leaders-program',
     deadline: '8 March',

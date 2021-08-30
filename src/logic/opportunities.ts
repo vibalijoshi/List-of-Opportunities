@@ -893,7 +893,7 @@ export const opportunities = [
   },
   {
     name: 'Script Winter of Code SWOC',
-    link: 'https://swoc.tech/index.html',
+    link: 'https://swoc.scriptindia.org/#/',
     deadline: '20 December',
     type: 'Mentorship',
   },

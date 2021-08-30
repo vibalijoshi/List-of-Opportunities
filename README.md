@@ -4,6 +4,10 @@ Can't keep track of the opportunities or you get to know about it when it's too 
 I too, had been struggling with constantly learning about new opportunities when someone posted about them on LinkedIn unfortunately way past the deadline :( <br><br>
 So I decided to maintain a database of all the opportunities I came across and this repository is the result!
 This list is not complete and I alone cannot make it whole. This is where the community efforts come and so I made the list open Source! <br>
+## Subcribe to the newsletter
+- [Subscribe here for free](https://hack-the-opportunities.ck.page/) and receive email notifications for new opportunities.
+- See all the past posts [here](https://hack-the-opportunities.ck.page/posts)
+
 ## Hack the Hack!
 - I made a hackathon calendar that you can subscribe to and never miss an awesome hackathon again! <br>
 - Subscribe here: [Hack the Hack Calendar](https://neon.ly/HacktheHackCalendar)

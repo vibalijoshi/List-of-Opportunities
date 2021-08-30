@@ -770,6 +770,12 @@ export const opportunities = [
     type: 'Virtual Event',
   },
   {
+    name: 'BorderHacks 2021',
+    link: 'https://dare2compete.com/o/borderhacks-2021-borderhacks-177290?lb=21070516',
+    deadline: '10 September 2021',
+    type: 'Hackathon',
+  },
+  {
     name: 'D2C Igniters Club',
     link: 'https://dare2compete.com/internship/d2c-igniters-club-dare2compete-140176?utm_source=newsletter&utm_medium=Opprtunities&utm_campaign=sendy_newsletter&lb=nciUx5O',
     deadline: '15 September 2021',

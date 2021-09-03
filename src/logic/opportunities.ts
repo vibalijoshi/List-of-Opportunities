@@ -834,6 +834,12 @@ export const opportunities = [
     type: 'Scholarship for Women',
   },
   {
+    name: 'Codechef Snackdown',
+    link: 'https://snackdown.codechef.com',
+    deadline: '19 October 2021',
+    type: 'Coding Competition',
+  },
+  {
     name: 'Loreal India For Young Women In Science Scholarships',
     link: 'https://www.buddy4study.com/page/loreal-india-for-young-women-in-science-scholarships',
     deadline: '23 October',

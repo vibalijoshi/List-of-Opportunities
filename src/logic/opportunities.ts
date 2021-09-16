@@ -800,6 +800,12 @@ export const opportunities = [
     type: 'Research Internship',
   },
   {
+    name: 'Future Ready Talent Program',
+    link: 'https://www.futurereadytalent.in/',
+    deadline: '26 September 2021',
+    type: 'Internship',
+  },
+  {
     name: '30 Days of Google Cloud',
     link: 'https://cloud.google.com/blog/topics/training-certifications/google-cloud-free-training-opportunities-q1-2021',
     deadline: '30 September',

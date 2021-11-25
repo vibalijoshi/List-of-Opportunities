@@ -474,7 +474,7 @@ export const opportunities = [
   {
     name: 'Nutanix',
     link: 'https://www.nutanix.com/scholarships',
-    deadline: '13 May, 2022',
+    deadline: '13 May 2022',
     type: 'Scholarship for Women',
   },  
   {

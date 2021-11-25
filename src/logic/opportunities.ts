@@ -14,12 +14,7 @@ export const opportunities = [
     type: 'Internship and FTE',
   },
   
-  {
-    name: 'MLH Fellowship',
-    link: 'https://fellowship.mlh.io/programs/open-source',
-    deadline: '4 January',
-    type: 'Mentorship',
-  },
+  
   {
     name: 'Season of KDE',
     link: 'https://season.kde.org/',
@@ -954,6 +949,12 @@ export const opportunities = [
   //end of dec
   
   //start of All Year
+  {
+    name: 'MLH Fellowship',
+    link: 'https://fellowship.mlh.io/',
+    deadline: 'All Year',
+    type: 'Fellowship',
+  },
   {
     name: 'DrivenData',
     link: 'https://www.drivendata.org/competitions',

@@ -7,6 +7,12 @@ export const opportunities = [
     deadline: '2 January',
     type: 'Scholarship for Women',
   },
+  {
+    name: 'Goldman Sachs Engineering Campus Hiring Program',
+    link: 'https://www.goldmansachs.com/careers/students/programs/india/engineers-campus-hiring-program.html',
+    deadline: '3 January 2022',
+    type: 'Internship and FTE',
+  },
   
   {
     name: 'MLH Fellowship',
@@ -19,6 +25,12 @@ export const opportunities = [
     link: 'https://season.kde.org/',
     deadline: '4 January',
     type: 'Summer of Code/ Mentorship',
+  },
+  {
+    name: 'Microsoft Research Fellows Program',
+    link: 'https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/',
+    deadline: '14 January 2022',
+    type: 'Fellowship',
   },
   {
     name: 'Goldman Sachs Women Possibilities Summit: Finance',
@@ -43,6 +55,12 @@ export const opportunities = [
     link: 'https://www.surveymonkey.com/r/INTUIT_2020',
     deadline: '21 January',
     type: 'Mentorship for Women',
+  },
+  {
+    name: 'Data Science for Social Good',
+    link: 'https://www.dssgfellowship.org/apply-to-be-a-2022-dssg-summer-fellow/',
+    deadline: '28 January 2022',
+    type: 'Fellowship',
   },  
   {
     name: 'Pragati Scholarship',
@@ -223,13 +241,7 @@ export const opportunities = [
     deadline: '27 March',
     type: 'Hackathon for Women',
   },
-  {
-    name: 'Google Generation Scholarship APAC',
-    link: 'https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/',
-    deadline: '30 March',
-    type: 'Scholarship for Women',
-  },   
-  
+   
   {
     name: 'AWS Community Builder Program',
     link: 'https://aws.amazon.com/developer/community/community-builders/',
@@ -462,7 +474,7 @@ export const opportunities = [
   {
     name: 'Nutanix',
     link: 'https://www.nutanix.com/scholarships',
-    deadline: '26 May',
+    deadline: '13 May, 2022',
     type: 'Scholarship for Women',
   },  
   {
@@ -882,6 +894,12 @@ export const opportunities = [
     type: 'Hackathon for Women',
   },
   {
+    name: 'Machine Learning Department Summer Internships',
+    link: 'https://www.ml.cmu.edu/news/news-archive/2021-2025/2021/november/ml-internship.html',
+    deadline: '22 November 2021',
+    type: 'Research Internship',
+  },
+  {
     name: 'Education Scholarship Scheme for Army Personnel (ESSA)',
     link: 'https://scholarship.awesindia.com/',
     deadline: '30 November 2021',
@@ -904,9 +922,27 @@ export const opportunities = [
     type: 'Scholarship for Women',
   },
   {
+    name: 'Generation Google Scholarship APAC',
+    link: 'https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/',
+    deadline: '10 December 2021',
+    type: 'Scholarship for Women',
+  },
+  {
+    name: 'Appscale Academy',
+    link: 'https://events.withgoogle.com/appscale-academy/',
+    deadline: '15 December 2021',
+    type: 'Mentorship',
+  }, 
+  {
     name: 'Script Winter of Code SWOC',
     link: 'https://swoc.scriptindia.org/#/',
     deadline: '20 December',
+    type: 'Mentorship',
+  },
+  {
+    name: 'PhonePe Tech Scholars Program',
+    link: 'https://www.crio.do/phonepe-tech-scholars-program',
+    deadline: '27 December 2021',
     type: 'Mentorship',
   },
   {

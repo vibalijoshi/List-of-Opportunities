@@ -1027,5 +1027,11 @@ export const opportunities = [
     deadline: 'All Year',
     type: 'Student Ambassador',
   },
+  {
+    name: 'Womentors by Superposition Chennai',
+    link: 'https://docs.google.com/forms/d/1zRhfntJ3WfPMlb0bUDZ_J3bYTVS8Ak1n3E4BzEu6kmg/',
+    deadline: 'All Year',
+    type: 'Mentorship for young Women',
+  },
   //end of all Year
 ]

@@ -206,6 +206,12 @@ export const opportunities = [
     deadline: '15 March',
     type: 'Mentorship',
   },
+   {
+    name: 'Global Impact Scholarship',
+    link: 'https://www.palantir.com/careers/students/scholarship/global-impact/',
+    deadline: '15 March 2022',
+    type: 'Scholarship',
+  },
   {
     name: 'WTEF by TalentSprint',
     link: 'https://we.talentsprint.com/',

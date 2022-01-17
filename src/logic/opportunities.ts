@@ -191,7 +191,7 @@ export const opportunities = [
   },
    {
     name: 'Micron Global Women\'s Mentorship Program',
-    link: 'https://www.dieti.unina.it/images/opportunita/Micron_Global_Women_s_Mentorship_Program_2021.pdf',
+    link: 'https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Skyview-India/Micron-Global-Women-s-Mentorship-Program_JR13982',
     deadline: '12 March',
     type: 'Mentorship for Women',
   },

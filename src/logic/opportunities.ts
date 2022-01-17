@@ -75,6 +75,13 @@ export const opportunities = [
     deadline: 'January',
     type: 'Pre-internship-hackathon',
   },
+  {
+    name: 'Cargill Scholarship',
+    link: 'https://www.cargillglobalscholars.com/scholarship/',
+    deadline: 'January',
+    type: 'Scholarship',
+  },
+  
   
   //End of Jan
   

@@ -40,6 +40,12 @@ export const opportunities = [
     type: 'Scholarship',
   },
   {
+    name: 'ETHWMN Fellowship',
+    link: 'https://ethwmn.devfolio.co/',
+    deadline: '15 January 2022',
+    type: 'Fellowship for women',
+  },
+  {
     name: 'Goldman Sachs WeTech',
     link: 'https://www.iie.org/Programs/WeTech/STEM-Scholarships-for-Women/Goldman-Sachs-Scholarship',
     deadline: '18 January',

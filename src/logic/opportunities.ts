@@ -35,8 +35,8 @@ export const opportunities = [
   },
   {
     name: 'Internshala Career Scholarship for Girls',
-    link: 'https://blog.internshala.com/2020/12/internshala-career-scholarship-for-girls-2021/',
-    deadline: '15 January',
+    link: 'https://blog.internshala.com/2021/12/internshala-career-scholarship-for-girls-2022/',
+    deadline: '15 January 2022',
     type: 'Scholarship',
   },
   {

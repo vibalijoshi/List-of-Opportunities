@@ -222,7 +222,7 @@ export const opportunities = [
    {
     name: 'Global Impact Scholarship',
     link: 'https://www.palantir.com/careers/students/scholarship/global-impact/',
-    deadline: '15 March 2022',
+    deadline: '17 March 2022',
     type: 'Scholarship',
   },
   {

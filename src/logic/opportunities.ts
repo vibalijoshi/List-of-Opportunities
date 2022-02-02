@@ -129,10 +129,16 @@ export const opportunities = [
     type: 'Mentorship',
   },
   {
+    name: 'American Express Makethon',
+    link: 'https://american-express-makeathon-2022.hackerearth.com/',
+    deadline: '20 February 2022',
+    type: 'Hackathon for Women',
+  },
+  {
     name: 'Outreachy Summer Cycle',
     link: 'https://www.outreachy.org/',
     deadline: '22 February',
-    type: 'Internship',
+    type: 'Internship for Women',
   },
   {
     name: 'Student of Vision Abie Award',
@@ -183,13 +189,8 @@ export const opportunities = [
     deadline: '11 March',
     type: 'Coding Challenge',
   },
-   {
-    name: 'American Express Makethon',
-    link: 'https://american-express-makeathon-2021.hackerearth.com/',
-    deadline: '12 March',
-    type: 'Internship for Women',
-  },
-   {
+   
+  {
     name: 'Micron Global Women\'s Mentorship Program',
     link: 'https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Skyview-India/Micron-Global-Women-s-Mentorship-Program_JR13982',
     deadline: '12 March',

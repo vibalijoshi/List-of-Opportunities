@@ -383,7 +383,13 @@ export const opportunities = [
     link: 'https://www.meity.gov.in/digital-india-internship-scheme-2021',
     deadline: '29 April',
     type: 'Internship',
-  },   
+  },
+  {
+    name: 'Google Women Techmakers Ambassador Application',
+    link: 'https://docs.google.com/forms/d/e/1FAIpQLSclJkcN8kjG5Cn1grhw4tjc_NojZoGj9Ewah8UDK61KpJmUXA/viewform',
+    deadline: '30 April 2022',
+    type: 'Ambassador Program',
+  },
   {
     name: 'Linux Foundation Training Scholarship (LiFT)',
     link: 'https://openjsf.org/blog/2021/04/13/lift-scholarship/',

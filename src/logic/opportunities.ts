@@ -111,6 +111,12 @@ export const opportunities = [
     type: 'Mentorship for Women',
   },
   {
+    name: 'Microsoft India - Design Challenge 2022',
+    link: 'https://www.msdesignchallenge.in/',
+    deadline: '6 February',
+    type: 'Design Challenge',
+  },
+  {
     name: 'LFX',
     link: 'https://lfx.linuxfoundation.org/tools/mentorship/',
     deadline: '12 February',
@@ -121,6 +127,12 @@ export const opportunities = [
     link: 'https://scholarships.swe.org/applications/login.asp',
     deadline: '15 February',
     type: 'Scholarship for Women',
+  },
+  {
+    name: 'J.P. Morgan Quant Mentorship Program',
+    link: 'https://jpmc.recsolu.com/app/collect/event/TDMNonCLZS-KWbHKF9c_DA',
+    deadline: 'before 17 Februaury 2022',
+    type: 'Mentorship for Women',
   },
   {
     name: 'GirlScript Summer Of Code',
@@ -203,11 +215,12 @@ export const opportunities = [
     type: 'Scholarship',
   },
   {
-    name: 'J.P. Morgan Quant Mentorship Program',
-    link: 'https://jpmc.recsolu.com/external/events/7fhj8JsCg3MnReoSQFtVVg',
-    deadline: 'before 15 March',
-    type: 'Mentorship for Women',
+    name: 'Summer Of Bitcoin',
+    link: 'https://www.summerofbitcoin.org/',
+    deadline: '15 March 2022',
+    type: 'Open Source Intership',
   },
+  
    {
     name: 'Caltech Student-Faculty Programs (SURF)',
     link: 'SURF',
@@ -361,7 +374,7 @@ export const opportunities = [
   },
   {
     name: 'GHC Scholarship',
-    link: 'https://ghc.anitab.org/attend/scholarships/',
+    link: 'https://ghc.anitab.org/attend/scholarships/academics/',
     deadline: '28 April',
     type: 'Scholarship for Women in Tech',
   },   

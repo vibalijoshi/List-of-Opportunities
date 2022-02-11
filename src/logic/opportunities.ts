@@ -93,6 +93,12 @@ export const opportunities = [
   
   //Start of Feb
   {
+    name: 'Uber She++',
+    link: 'https://events.beamery.com/uber/uber-she++-2022-t1khjteyw',
+    deadline: 'February 2022',
+    type: 'Mentorship for Women',
+  },
+  {
     name: 'IRIS-HEP Fellows',
     link: 'https://iris-hep.org/fellows.html',
     deadline: 'February',

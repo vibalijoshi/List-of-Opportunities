@@ -155,7 +155,7 @@ export const opportunities = [
   {
     name: 'Outreachy Summer Cycle',
     link: 'https://www.outreachy.org/',
-    deadline: '22 February',
+    deadline: '25 February 2022',
     type: 'Internship for Women',
   },
   {
@@ -168,7 +168,7 @@ export const opportunities = [
   {
     name: 'Github Campus Expert Program',
     link: 'https://apply.githubcampus.expert/',
-    deadline: 'End of February',
+    deadline: '28 February 2022',
     type: 'Campus Expert Program',
   },
   

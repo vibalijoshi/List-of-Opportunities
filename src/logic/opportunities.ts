@@ -159,6 +159,12 @@ export const opportunities = [
     type: 'Internship for Women',
   },
   {
+    name: 'Uber HackTag 2.0',
+    link: 'https://dare2compete.com/hackathon/uber-hacktag-20-uber-technologies-inc-260528',
+    deadline: '25 February 2022',
+    type: 'Hackathon/Internship',
+  },
+  {
     name: 'Student of Vision Abie Award',
     link: 'https://anitab.org/awards-grants/abie-awards/student-of-vision/',
     deadline: '25 February',

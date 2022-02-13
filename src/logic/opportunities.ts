@@ -201,6 +201,12 @@ export const opportunities = [
     deadline: '1 March',
     type: 'Open Source Fest',
   },
+   {
+    name: 'Amdocs Hackfest 2022',
+    link: 'https://www.hackerearth.com/challenges/competitive/amdocs-hackfest-2022/',
+    deadline: '5 March 2022',
+    type: 'Hackathon/Coding Challenge',
+  },
   {
     name: 'Crossroads Emerging Leaders Program',
     link: 'https://cmes.fas.harvard.edu/crossroads-emerging-leaders-program',

@@ -502,7 +502,7 @@ export const opportunities = [
     name: 'Exchange with Google Developers',
     link: 'https://events.withgoogle.com/exchange-with-google-developers/',
     deadline: '17 May',
-    type: 'Scholarship',
+    type: 'Mentorship',
   },
   
   {

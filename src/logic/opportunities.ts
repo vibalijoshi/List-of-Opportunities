@@ -64,6 +64,12 @@ export const opportunities = [
     type: 'Fellowship',
   },  
   {
+    name: 'URAM Scholarship Program',
+    link: 'https://uramscholarship.in/',
+    deadline: '30 January 2022',
+    type: 'Scholarship for Women',
+  },  
+  {
     name: 'Pragati Scholarship',
     link: 'https://www.buddy4study.com/article/pragati-scholarship',
     deadline: '31 January',

@@ -208,10 +208,16 @@ export const opportunities = [
     type: 'Open Source Fest',
   },
    {
-    name: 'Amdocs Hackfest 2022',
-    link: 'https://www.hackerearth.com/challenges/competitive/amdocs-hackfest-2022/',
+    name: 'Juspay Hiring Challenge 2022',
+    link: 'https://dare2compete.com/hackathon/juspay-hiring-challenge-2022-juspay-263513',
     deadline: '5 March 2022',
     type: 'Hackathon/Coding Challenge',
+  },
+   {
+    name: 'Amdocs Hackfest 2022',
+    link: 'https://www.hackerearth.com/challenges/competitive/amdocs-hackfest-2022/',
+    deadline: '4 March 2022',
+    type: 'Coding Challenge',
   },
   {
     name: 'Crossroads Emerging Leaders Program',

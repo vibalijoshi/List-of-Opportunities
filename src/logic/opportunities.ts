@@ -330,6 +330,12 @@ export const opportunities = [
     deadline: '2 April',
     type: 'Scholarship for Women',
   },
+  {
+    name: 'IDFC FIRST Bank_Women Only Challenge',
+    link: 'https://assessment.hackerearth.com/challenges/hiring/idfc-first-bank_women-only-challenge/',
+    deadline: '3 April, 2022',
+    type: 'FTE',
+  },
    {
     name: 'Mozilla Fellowship',
     link: 'https://foundation.mozilla.org/en/what-we-fund/fellowships/fellowships-faq/',

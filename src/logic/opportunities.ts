@@ -226,6 +226,12 @@ export const opportunities = [
     type: 'Fellowship',
   },
   {
+    name: 'Google Girl Hackathon',
+    link: 'https://buildyourfuture.withgoogle.com/programs/girl-hackathon/',
+    deadline: '9 March 2022',
+    type: 'PIO and PPO at Google',
+  },
+  {
     name: 'Reply Code Challenge',
     link: 'https://www.reply.com/en/newsroom/events/reply-code-challenge-2021',
     deadline: '11 March',

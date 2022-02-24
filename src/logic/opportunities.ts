@@ -125,7 +125,7 @@ export const opportunities = [
   {
     name: 'Microsoft India - Design Challenge 2022',
     link: 'https://www.msdesignchallenge.in/',
-    deadline: '6 February',
+    deadline: '6 February 2022',
     type: 'Design Challenge',
   },
   {
@@ -137,7 +137,7 @@ export const opportunities = [
   {
     name: 'Society of Women Engineers Scholarship Application System',
     link: 'https://scholarships.swe.org/applications/login.asp',
-    deadline: '15 February',
+    deadline: '15 February 2022',
     type: 'Scholarship for Women',
   },
   {
@@ -175,7 +175,13 @@ export const opportunities = [
     link: 'https://anitab.org/awards-grants/abie-awards/student-of-vision/',
     deadline: '25 February',
     type: 'Scholarship',
-  },   
+  },
+    {
+    name: 'LinkedIn CoachlN',
+    link: 'https://linkedincoachin3.splashthat.com/',
+    deadline: '27 February 2022',
+    type: 'Mentorship for Women',
+  },  
   
   {
     name: 'Github Campus Expert Program',
@@ -189,12 +195,7 @@ export const opportunities = [
   
   
   //Start of March
-  {
-    name: 'LinkedIn CoachlN',
-    link: 'https://coachin2021.splashthat.com/',
-    deadline: 'March',
-    type: 'Mentorship for Women',
-  },
+
   {
     name: 'Google Computer Science Summer Institute',
     link: 'https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute/',

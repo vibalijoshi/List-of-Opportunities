@@ -398,6 +398,12 @@ export const opportunities = [
     type: 'Internship',
   },
   {
+    name: 'GDSC Lead Application India',
+    link: 'https://developers.google.com/community/dsc/leads',
+    deadline: '15 April 2022',
+    type: 'GDSC Lead Application',
+  },
+  {
     name: 'Flipkart Runaway',
     link: 'https://dare2compete.com/o/flipkart-runway-flipkart-157441?utm_campaign=site-emails&utm_medium=site-emails&utm_source=take-the-flipkart-runway-quiz-now',
     deadline: '18 April',
@@ -475,12 +481,7 @@ export const opportunities = [
     deadline: 'May',
     type: 'Internship',
   },
-  {
-    name: 'GDSC Application India',
-    link: 'https://developers.google.com/community/dsc/leads',
-    deadline: '1 May',
-    type: 'GDSC Lead Application',
-  },
+  
   {
     name: 'Hackwithinfy',
     link: 'https://www.infosys.com/careers/hackwithinfy.html',

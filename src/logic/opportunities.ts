@@ -434,6 +434,12 @@ export const opportunities = [
     type: 'Ambassador Program',
   },
   {
+    name: 'LiFT Scholarships',
+    link: 'https://linuxfoundation.org/diversity-inclusivity/lift-scholarships/',
+    deadline: '30 April 2022',
+    type: 'Open Source Scholarship + Women',
+  },
+  {
     name: 'Linux Foundation Training Scholarship (LiFT)',
     link: 'https://openjsf.org/blog/2021/04/13/lift-scholarship/',
     deadline: '30 April',

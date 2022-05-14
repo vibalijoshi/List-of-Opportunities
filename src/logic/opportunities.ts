@@ -14,6 +14,13 @@ export const opportunities = [
     type: 'Internship and FTE',
   },
   
+  {
+    name: 'Government Jobs',
+    link: 'https://www.governmentjobonline.in/',
+    deadline: '14 May',
+    type: 'Education',
+  },
+  
   
   {
     name: 'Season of KDE',

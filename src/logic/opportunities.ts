@@ -566,7 +566,13 @@ export const opportunities = [
     link: 'https://mybuild.microsoft.com/home',
     deadline: '26 May',
     type: 'Conference',
-  },   
+  },
+  {
+    name: 'Avery Dennison Foundation Scholarship',
+    link: 'https://www.applytoaverydennisoninvent.org/',
+    deadline: '31 May 2022',
+    type: 'Scholarship',
+  },
   
   //End of May
   
@@ -579,12 +585,7 @@ export const opportunities = [
     deadline: '1 June 2022',
     type: 'Fellowship',
   },
-  {
-    name: 'Avery Dennison Foundation Scholarship',
-    link: 'https://www.applytoaverydennisoninvent.org/',
-    deadline: '6 June',
-    type: 'Scholarship',
-  },
+  
   {
     name: 'Walmart CodeHers',
     link: 'https://dare2compete.com/o/walmart-codehers-walmart-india-pvt-ltd-167089',
@@ -597,25 +598,13 @@ export const opportunities = [
     deadline: '18 June 2022',
     type: 'Fellowship',
   },
+  
   {
     name: 'Pclubs Summer of Code',
-    link: 'https://www.pclubsummerofcode.in/',
-    deadline: '22 June',
+    link: 'https://www.psoc.in/',
+    deadline: '22 June 2022',
     type: 'Open Source Mentorship',
-  },
-  {
-    name: 'Quip Diversity Scholarship',
-    link: 'https://quip.com/blog/2020-quip-diversity-scholarship',
-    deadline: '24 Jun',
-    type: 'Scholarship',
-  },
-  {
-    name: 'Alibaba Summer of Code 2020',
-    link: 'https://www.alibabacloud.com/blog/alibaba-summer-of-code-2020-leading-the-new-open-source-trend_596241',
-    deadline: '30 Jun',
-    type: 'Open Source Program',
-  },
-  
+  },  
   {
     name: 'Open Source Day by Anita B. org',
     link: 'https://anitab.org/events-programs/open-source-day/',

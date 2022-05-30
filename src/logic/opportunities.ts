@@ -558,7 +558,7 @@ export const opportunities = [
   {
     name: 'Nutanix',
     link: 'https://www.nutanix.com/scholarships',
-    deadline: '13 May 2022',
+    deadline: '27 May 2022',
     type: 'Scholarship for Women',
   },  
   {
@@ -573,11 +573,16 @@ export const opportunities = [
   
   
   //Start of June
-  
+  {
+    name: 'Polygon Fellowship: Web3 Beginner Track',
+    link: 'https://polygon.technology/polygon-fellowship/',
+    deadline: '1 June 2022',
+    type: 'Fellowship',
+  },
   {
     name: 'Avery Dennison Foundation Scholarship',
     link: 'https://www.applytoaverydennisoninvent.org/',
-    deadline: '6 Jun',
+    deadline: '6 June',
     type: 'Scholarship',
   },
   {
@@ -585,6 +590,12 @@ export const opportunities = [
     link: 'https://dare2compete.com/o/walmart-codehers-walmart-india-pvt-ltd-167089',
     deadline: '11 June',
     type: 'Full Time SDE roles',
+  },
+  {
+    name: 'Polygon Fellowship: Web3 Builder Track',
+    link: 'https://polygon.technology/polygon-fellowship/',
+    deadline: '18 June 2022',
+    type: 'Fellowship',
   },
   {
     name: 'Pclubs Summer of Code',

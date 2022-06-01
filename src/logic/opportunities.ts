@@ -28,6 +28,12 @@ export const opportunities = [
     type: 'Fellowship',
   },
   {
+    name: 'Activision Blizzard King Women in Games Scholarship',
+    link: 'https://careers.activisionblizzard.com/abkaspiringwomen',
+    deadline: '14 January 2022',
+    type: 'Scholarship for Women',
+  },
+  {
     name: 'Goldman Sachs Women Possibilities Summit: Finance',
     link: 'https://www.goldmansachs.com/careers/students/programs/india/womens-possibilities-summit-finance.html',
     deadline: '15 January',
@@ -56,6 +62,12 @@ export const opportunities = [
     link: 'https://www.surveymonkey.com/r/INTUIT_2020',
     deadline: '21 January',
     type: 'Mentorship for Women',
+  },
+  {
+    name: 'Reboot Student Fellowship',
+    link: 'https://reboothq.substack.com/p/fellowship-22?s=r',
+    deadline: '21 January 2022',
+    type: 'Fellowship',
   },
   {
     name: 'Data Science for Social Good',
@@ -92,6 +104,12 @@ export const opportunities = [
     link: 'https://www.cargillglobalscholars.com/scholarship/',
     deadline: 'January',
     type: 'Scholarship',
+  },
+  {
+    name: 'Google STEP Intern',
+    link: 'https://buildyourfuture.withgoogle.com/programs/step',
+    deadline: 'January',
+    type: 'Internship',
   },
   
   
@@ -422,6 +440,12 @@ export const opportunities = [
     type: 'GDSC Lead Application',
   },
   {
+    name: 'GirlsComputingLeague Scholarship (US only)',
+    link: 'https://www.girlscomputingleague.org/gcl-scholars-program/',
+    deadline: '22 April 2022',
+    type: 'Scholarship for Women',
+  },
+  {
     name: 'GHC Scholarship',
     link: 'https://ghc.anitab.org/attend/scholarships/academics/',
     deadline: '28 April',
@@ -542,6 +566,12 @@ export const opportunities = [
     link: 'https://www.mckinsey.com/careers/mckinsey-achievement-awards/overview?fbclid=IwAR3yrq_x9eLBJNokIbslAXfhre5Jzpj4rcbfoUOFJoz_Nh9FHsfQH13Ub4U',
     deadline: '21 May',
     type: 'Mentorship and Scholarship',
+  },  
+  {
+    name: 'GitHub Field Day',
+    link: 'https://githubfieldday.com/',
+    deadline: '22 May 2022',
+    type: 'Conference',
   },  
   {
     name: 'Osoc',
@@ -942,6 +972,12 @@ export const opportunities = [
     type: 'Coding Competition',
   },
   {
+    name: 'Tata Imagination Challenge',
+    link: 'https://www.tata.com/tataimaginationchallenge',
+    deadline: '22 October 2021',
+    type: 'PPI Offers at Tata Group',
+  },
+  {
     name: 'Loreal India For Young Women In Science Scholarships',
     link: 'https://www.buddy4study.com/page/loreal-india-for-young-women-in-science-scholarships',
     deadline: '23 October',
@@ -984,6 +1020,12 @@ export const opportunities = [
     type: 'Research Internship',
   },
   {
+    name: 'Harvard WECode',
+    link: 'https://www.harvardwecode.com/about-wecode',
+    deadline: '22 November 2021',
+    type: 'Conference for Women',
+  },
+  {
     name: 'Education Scholarship Scheme for Army Personnel (ESSA)',
     link: 'https://scholarship.awesindia.com/',
     deadline: '30 November 2021',
@@ -1010,6 +1052,18 @@ export const opportunities = [
     link: 'https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/',
     deadline: '10 December 2021',
     type: 'Scholarship for Women',
+  },
+  {
+    name: 'Generation Google Scholarship: for women in gaming (US, Canada, EMEA only)',
+    link: 'https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship',
+    deadline: '10 December 2021',
+    type: 'Scholarship for Women',
+  },
+   {
+    name: 'GitHub Externship Program',
+    link: 'https://externship.github.in/',
+    deadline: '14 December 2021',
+    type: 'Open Source Internship',
   },
   {
     name: 'Appscale Academy',
@@ -1113,6 +1167,18 @@ export const opportunities = [
   {
     name: 'OnePlus Student Program',
     link: 'https://www.oneplus.in/campus',
+    deadline: 'All Year',
+    type: 'Student Ambassador',
+  },
+  {
+    name: 'Meta Developer Circle Lead',
+    link: 'https://developers.facebook.com/developercircles/',
+    deadline: 'All Year',
+    type: 'Student Ambassador',
+  },
+  {
+    name: 'Friends of Figma',
+    link: 'https://friends.figma.com/become-a-student-leader/',
     deadline: 'All Year',
     type: 'Student Ambassador',
   },

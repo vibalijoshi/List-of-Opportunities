@@ -337,6 +337,12 @@ export const opportunities = [
     deadline: '30 March',
     type: 'Open Source Program',
   }, 
+  {
+    name: 'Open Mainframe Mentorship',
+    link: 'https://www.openmainframeproject.org/all-projects/mentorship-program',
+    deadline: '31 March',
+    type: 'Open Source Mentorship',
+  }, 
  
  
   //End of March
@@ -536,6 +542,13 @@ export const opportunities = [
     deadline: '10 May',
     type: 'Internship',
   },
+  {
+    name: 'Hyperledger Mentorship Program',
+    link: 'https://wiki.hyperledger.org/display/INTERN',
+    deadline: '10 May, 2022',
+    type: 'Open Source Mentorship',
+  },
+  
    {
     name: 'professor harry messel international science school',
     link: 'https://www.sydney.edu.au/science/industry-and-community/community-engagement/international-science-school.html',
@@ -1089,6 +1102,12 @@ export const opportunities = [
     deadline: '31 December 2021',
     type: 'Internship',
   },
+  {
+    name: '24 Pull Requests',
+    link: 'https://24pullrequests.com/',
+    deadline: 'December',
+    type: 'Open Source Program',
+  },
   //end of dec
   
   //start of All Year
@@ -1097,6 +1116,12 @@ export const opportunities = [
     link: 'https://fellowship.mlh.io/',
     deadline: 'All Year',
     type: 'Fellowship',
+  },
+  {
+    name: 'X.Org Endless Vacation of Code (EVoC)',
+    link: 'https://www.x.org/wiki/XorgEVoC/',
+    deadline: 'All Year',
+    type: 'Open Source Program',
   },
   {
     name: 'DrivenData',

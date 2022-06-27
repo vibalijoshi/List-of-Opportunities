@@ -716,6 +716,12 @@ export const opportunities = [
     type: 'Research Scholarship',
   },
   {
+    name: 'Rolls-Royce Unnati Scholarships for Women Engineering Students',
+    link: 'https://www.buddy4study.com/page/rolls-royce-unnati-scholarships-for-women-engineering-students',
+    deadline: '1 August 2022',
+    type: 'Scholarship for Women',
+  },
+  {
     name: 'WiCyS:Security Training Scholarship',
     link: 'https://www.wicys.org/benefits/security-training-scholarship/',
     deadline: '2 August 2021',

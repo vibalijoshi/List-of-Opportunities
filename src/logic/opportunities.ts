@@ -1,4 +1,11 @@
 export const opportunities = [
+  // July 2022
+   {
+    name: 'Rakuten India Hiring Challenge',
+    link: 'https://assessment.hackerearth.com/challenges/hiring/rakuten-hiring-challenge/',
+    deadline: '17 July 2022',
+    type: 'Hiring Challenge',
+   },
   // Start of Jan
   
   {

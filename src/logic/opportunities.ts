@@ -93,7 +93,12 @@ export const opportunities = [
     deadline: 'January',
     type: 'Scholarship',
   },
-  
+  {
+    name: 'Build@Mercari',
+    link: 'https://mercan.mercari.com/en/articles/40098/',
+    deadline: 'January',
+    type: 'Scholarship',
+  },
   
   //End of Jan
   

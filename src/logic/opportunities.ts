@@ -257,6 +257,12 @@ export const opportunities = [
     type: 'Scholarship',
   },
   {
+    name: 'Adobe Design Circle Scholarship',
+    link: 'https://www.iie.org/en/Programs/Adobe-Design-Circle-Scholarships',
+    deadline: '14 March',
+    type: 'Scholarship',
+  },
+  {
     name: 'Summer Of Bitcoin',
     link: 'https://www.summerofbitcoin.org/',
     deadline: '15 March 2022',
@@ -522,6 +528,12 @@ export const opportunities = [
     link: 'https://www.sydney.edu.au/science/industry-and-community/community-engagement/international-science-school.html',
     deadline: '14 May',
     type: 'Conference',
+  },
+  {
+    name: 'Summer of Nix',
+    link: 'https://summer.nixos.org/',
+    deadline: '15 May',
+    type: 'Open Source Internship',
   },
   {
     name: 'Girl Up Scholarship',
@@ -918,7 +930,12 @@ export const opportunities = [
     deadline: '30 September',
     type: 'Scholarship for Women',
   },
-
+  {
+    name: 'Spark AR Campus Ambassador Program',
+    link: 'https://sparkar.reskilll.com/campus',
+    deadline: 'Late September',
+    type: 'Campus Ambassador',
+  },
   //end of sept
   
   //start of oct

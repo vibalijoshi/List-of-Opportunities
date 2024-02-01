@@ -597,6 +597,14 @@ export const opportunities = [
     deadline: '11 June',
     type: 'Full Time SDE roles',
   },
+  
+  {
+    name: 'Tata Steel - Women of Mettle',
+    link: 'https://xathon.mettl.com/event/women-of-mettle',
+    deadline: '12 June',
+    type: 'Scholarship + PPI/PPO Offer',
+  },
+  
   {
     name: 'Polygon Fellowship: Web3 Builder Track',
     link: 'https://polygon.technology/polygon-fellowship/',
@@ -622,6 +630,12 @@ export const opportunities = [
     deadline: '30 Jun',
     type: 'Mentorship',
   },
+  {
+    name: 'MLH Hackcon X',
+    link: 'https://hackcon.mlh.io/',
+    deadline: 'June',
+    type: 'Conference',
+  },
   
   //End of June
   
@@ -638,6 +652,12 @@ export const opportunities = [
     link: 'https://events.withgoogle.com/get-ahead-apac-2019/#content',
     deadline: 'July',
     type: 'Fellowship',
+  },
+  {
+    name: 'Cisco Ideathon',
+    link: 'hhttps://www.cisco.com/c/m/en_in/customer-experience-academy.html',
+    deadline: '6 July, 2022',
+    type: 'Ideathon + Internship at Cisco',
   },
   {
     name: 'Flipkart GRiD 3.0',
@@ -710,6 +730,12 @@ export const opportunities = [
     link: 'https://inthecloud.withgoogle.com/google-cloud-skills/register.html?utm_source=google&utm_medium=blog&utm_campaign=FY21-Q1-global-trainingandenablement-website-other-skills_challenge&utm_content=q1rollup',
     deadline: '30 July',
     type: 'Skills challenge',
+  },
+  {
+    name: 'Samsung Solve for Tomorrow',
+    link: 'https://www.samsung.com/in/solvefortomorrow/?cid=in_paid_ppc_google_allproducts_none_allproducts-eshop-bau-dsa_text_20200105_719335193-40302839271---446538506521-aud-747500539912:dsa-904431574476-1ur-501336l-2022&gclid=Cj0KCQjwtvqVBhCVARIsAFUxcRtHBp4CWOng21pcT5djxsCgGk8aS-_FsqHNtjyrlq0TqCzzkCx41g8aAoBOEALw_wcB',
+    deadline: '31 July',
+    type: 'Ideathon + Incubation support and mentorship',
   },
   //End of july
   
@@ -867,6 +893,7 @@ export const opportunities = [
     deadline: '30 August 2021',
     type: 'Hackathon',
   },
+
   //end of aug
   
   //start of sept
@@ -917,6 +944,13 @@ export const opportunities = [
     link: 'https://www.drdo.gov.in/sites/default/files/whats_new_document/advt_ardb2020.pdf',
     deadline: '30 September',
     type: 'Scholarship for Women',
+  },
+
+  {
+    name: 'GitHub Universe',
+    link: 'https://www.githubuniverse.com/',
+    deadline: 'September',
+    type: 'Conference',
   },
 
   //end of sept
